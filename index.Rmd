@@ -1,0 +1,32 @@
+--- 
+title: "Protocols"
+author: "Rob Gilmore, Shaurita Hutchins, Lisa Ogawa, and Eric Vallender"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: krantz
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+site: bookdown::bookdown_site
+description: "A guide for experiments and other procedures used in Dr. Eric Vallender's Lab."
+url: "https://vallenderlab.github.io/"
+github-repo: vallenderlab/vallenderlab-protocols
+cover-image: images/vallender_lab_logo_1.jpg
+---
+
+# Preface
+
+This guide was made for the purposes of showcasing the various ways the lab has 
+implemented various experimental procedures, as well as various lab management tasks and
+administrative related duties at the University of Mississippi Medical Center in Jackson, MS.
+
+The chapters in this book are meant to simply be a reference point for completing tasks.  If you find
+a mistake, then please let someone know or edit it yourself on GitHub.  Feel free to add your own
+chapter or section using [bookdown](https://bookdown.org/) via RStudio.
+
