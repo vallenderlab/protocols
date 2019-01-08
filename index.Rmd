@@ -1,5 +1,5 @@
 --- 
-title: "Protocols"
+title: "Lab Protocols"
 author: "Rob Gilmore, Shaurita Hutchins, Lisa Ogawa, and Eric Vallender"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
