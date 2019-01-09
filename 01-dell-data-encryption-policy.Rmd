@@ -1,4 +1,4 @@
-# Chapter 1: Common Drive Structure
+# Common Drive Structure
 
   At the time of writting UMMC uses Dell Data Protection (an encryption program) for exchanging data from UMMC computers to external USB devices.  Your desktop will automatically detect that a USB device has been inserted, and it will prompt you to encrypt it.  Selecting no will give you read only access to the USB drives data, as well as preventing you from moving any data onto the device.  In order to exchange data between UMMC networked computers, this will be required.  **BUT** for transfering data from USB drives to UMMC networked computers, USB devices do not have to be encrypted.  
   
