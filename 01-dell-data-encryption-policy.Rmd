@@ -1,0 +1,7 @@
+# Chapter 1: Common Drive Structure
+
+  At the time of writting UMMC uses Dell Data Protection (an encryption program) for exchanging data from UMMC computers to external USB devices.  Your desktop will automatically detect that a USB device has been inserted, and it will prompt you to encrypt it.  Selecting no will give you read only access to the USB drives data, as well as preventing you from moving any data onto the device.  In order to exchange data between UMMC networked computers, this will be required.  **BUT** for transfering data from USB drives to UMMC networked computers, USB devices do not have to be encrypted.  
+  
+  Some of the USB drives in the lab are marked with red tape indicating that they are not to be encrypted.  These USB drives are used for transfering data from our equipment (nanodrop, QIAxcel, Lightcycler, Victor, etc.) to your desktop.  Encrypting these devices will render them useless on the machines they are meant to serve.  Unfortunately, it also means that transfering data to these machines can also be difficult.
+  
+  In the following sections keep this in mind when you are working with equipment or data that requires a USB device.
