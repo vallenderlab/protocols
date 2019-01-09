@@ -1,0 +1,27 @@
+# Quartzy Requests and Inventory {#quartzy}
+
+Many of the items that we regularlly order can be found on the Vallender Lab [Quartzy](https://www.quartzy.com/) website.  If you would like to order something and need access to Quartzy, then please ask someone in the lab for an invitation.  Quartzy uses a convienient import/export template model that allows you to bulk upload/download your entire enventory or request using an Excel
+spreadsheet.  Please consult someone in the lab who knows how to use these templates before you try to use them yourself.
+Quartzy also has plenty of guides you can use to understand their inventory system.
+
+## Quartzy Inventory
+
+Weather it be equipment, blood/DNA/RNA/cDNA/tissue samples, primers, plasmids, chemcials, consumables, etc. the items are stored in the Quartzy Inventory for future reference or for purchasing.  Quartzy will email out a monthly Inventory spreadsheet to give you updated
+information about what's in the lab.  Please consult somone in the lab in order to get your samples or items imported into Quartzy.
+
+## Quartzy Requests
+
+When you are ready to purchase an item, you can request them.  When making a request first check the Vallender Lab Inventory and then the Quartzy Shop.  If your item cannot be found, then you will have to add an item to the inventory and then request it.  Please make sure to add as much accurate information as possible when creating new inventory items.  After making a request Dr. Vallender will recieve an automated email from Quartzy so that he can approve the request.  Following approval a requisition form can be made, and emailed directly
+to our *Administrative Support Coordinator* who will create a UMMC Purchase Order for the items.
+
+## Ordering Molecular Reagents {#ordering}
+
+If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.
+
+* Primers - [Design](#design_primers) and then Order through [IDT](https://www.idtdna.com/pages/home)
+* Chemicals -
+* Drugs -
+
+## Freezer Boxes
+
+Our Blood, DNA, Primers, etc. libraries are all in freezer boxes.  Quartzy's import template allows you to denote a box position, and in turn it creates a nice box layout for you that is printable.  All of the available boxes should be in the Lab Management folder under the Vallender Lab profile.  If a new box is added to quartzy, then please add the printable layout here.  This particular functionality is useful, but takes some getting used to.  So please ask for help.
