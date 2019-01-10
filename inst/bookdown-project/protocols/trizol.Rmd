@@ -1,0 +1,9 @@
+# TRIzol Protocols {#trizol_protocols}
+
+* Trizol (DNA/RNA)
+    * TRIzol® LS Reagent (Custom)
+    * TRIzol® LS Reagent (2010)
+    * Trizol Reagent (2016)
+        * Experimental DNA Isolation (2016)
+    * Trizol LS Reagent (2016)
+        * Experimental DNA Isolation (2016)
