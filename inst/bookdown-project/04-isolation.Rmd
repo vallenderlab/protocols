@@ -1,5 +1,13 @@
 # Isolation
 
+Isolating various compunds is very important in a genetics lab.  There are many different techniques that
+can be used to isolate various biological material, but we will only be covering the most common
+techniques used in our lab:
+
+* Leukocyte Isolation from blood
+* DNA Isolation 
+* RNA Isolation 
+
 ## Leukocytes (Buffy Coat) Isolation {#leukocyte_isolation}
 
 Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means they have a nucleus unlike red blood cells.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
@@ -8,80 +16,25 @@ Leukocytes, more commonly known as white blood cells, are a type of peripheral b
 knitr::include_graphics("PCR-docs/blood_seperation.png") 
 ```
 
-It its therefore advised to isolate the leukocytes before proceeding with [DNA isolation](#dna_isolation) (or [RNA isolotion](#rna_isolation) if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  For this procedure we have used BD Pharm Lysis buffer.  The below protocol was given to us by a neighboring lab (ask if you need to know the source of this protocol):
-
-1.	Collect blood in heparinized (green cap) or EDTA (Purple cap) coated tube. 
-2.	Transfer 500 µl of the blood in a 50 mL conical tubes (> 500 µl). 
-3.	Make 1x BD Pharm lyse buffer (from 10X stock). 
-4.	Add 5 mL of 1x buffer .
-5.	GENTLY vortex for 5 seconds. 
-6.	Place in dark cabinet for 10 minutes.
-7.	Centrifuge 200g 5 min.
-8.	Discard the supernatant. 
-9.	Gently re-suspend and wash the pellet with 1x PBS, 2% FBS and centrifuge at 350g for 5 min.
-10.	Repeat wash step, until solution is mostly clear.  
-11.	Re-suspend the pellet (cells) in a small volume (1 ml) of 1x PBS, 2% FBS, and then proceed with further cleaning or DNA isolation.
-
-### Further Washing and Platelet Removal (Optional)
-
-Washing the cell isolate
-
-1. Estimate the volume of the transferred mononuclear cells. Add at least 3 volumes (~ 1.5 ml) of balanced salt solution (PBS) to the mononuclear cells in the centrifuge tube.
-2. Suspend the cells by gently drawing them in and out of a pipette.
-3. Centrifuge 1600rpm for 20 min at 18ºC to 20°C.
-(**Note:** __A centrifugation at high speed increases the mononuclear cell recovery. However, if it is important to also get rid of platelets a lower centrifugation speed is recommended (60 to 100 × g).__)
-4. Remove the supernatant.
-5. Resuspend the mononuclear cells in 1.5 to 2 ml balanced salt solution.
-6. Centrifuge 1600rpm for 20 min at 18ºC to 20°C.
-7. Remove the supernatant.
-8. Resuspend the cell pellet in media appropriate for the application.
-9. Freeze immediately on dry ice.
-10. Store at -80ºC.
+It its therefore advised to isolate the leukocytes before proceeding with [DNA isolation](#dna_isolation) (or [RNA isolotion](#rna_isolation) if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
 
 ## DNA Isolation {#dna_isolation}
 
-DNA is the foundation and reason for any PCR experiment.  When we are studying a group of animals and decide that we would like to understand more about their genetic differences, we genotype them.  Genotyping can be accomplished through various techniques.  The following are documented for our lab:
+Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.).  
+
+DNA isolation is normally followed by some type of genotyping experiment.  Genotyping is useful when
+we would like to compare the genetics of multiple animals.  Some of the genotyping methods that we
+use in our lab include:
 
 * [PCR](#pcr_protocol)
 * RFLP - Restriction Fragment Length Polymorphism
 * DNA sequencing
 
-DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.).  Many of our DNA isolation kits come from Qiagen who has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  Our lab has used the following protocols for DNA isolation:
-
-* FlexiGene DNA Kit for blood/buffy coat
-* Gentra Puregene Blood Kit
-* QIAmp DNA Micro Kit
-* QIAmp DNA Stool Mini Kit
-* [TRIzol](#trizol_protocols)
-
 ## RNA Isolation {#rna_isolation}
 
-RNA is most often used to determine the expression level of protein coding genes.  For studies that involve animals with varying treatment conditions (placebo vs drug1), we might want to do differential expression (DE) analysis.  DE analysis can be accomplished with the following techniques:
+Qiagen also has a methods article for [RNA](https://www.qiagen.com/us/resources/molecular-biology-methods/rna/) on their website.  RNA is most often used to determine the expression level of protein coding genes.  For studies that involve animals with varying treatment conditions (placebo vs drug1), we might want to do differential expression (DE) analysis.  DE analysis can be accomplished with the following techniques used in our lab:
 
 * qPCR
 * RNAseq - NGS/HTS
 
-Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still used for certain experiments or for validating NGS/HTS results.
-
-RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also MUCH more sensitive to degredation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
-
-### RNA-TODO: 
-
-* RNA ICE
-* Storage/Sample Conditions
-* Add RNase Away
-* RNase free consumables (water, tips, etc.)
-* Kits
-* Trizol
-* cDNA libraries
-* cDNA kits
-
-## TRIzol Protocols {#trizol_protocols}
-
-* Trizol (DNA/RNA)
-    * TRIzol® LS Reagent (Custom)
-    * TRIzol® LS Reagent (2010)
-    * Trizol Reagent (2016)
-        * Experimental DNA Isolation (2016)
-    * Trizol LS Reagent (2016)
-        * Experimental DNA Isolation (2016)
+RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also __MUCH__ more sensitive to degredation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
