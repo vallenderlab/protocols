@@ -1,0 +1,36 @@
+# Setup for PCR
+
+There are many ways to set up a PCR. Below is the protocol I have used most often here in lab, based on product usage information provided with the Promega GoTaq Colorless Master Mix kit that we purchase.  Depending on the number of samples in the PCR run, differing strategies can be taken to reduce time spent at the bench and consumables used to create the master mix.  (See the [Noteworthy Molecular Techniques section](#noteworthy_techniques))
+
+## GoTaq Colorless Master Mix
+
+Generally, we use a total volume of 25 ul for each PCR reaction (sample/well):
+
+* 12.5 ulPromega GoTaq Colorless Master Mix
+
+```{r  out.width = "85%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/gotaq-description.png") 
+```
+
+* 1 ul Forward primer (10 uM)
+* 1 ul Reverse primer (10 uM)
+* 8 ul Water (molecular grade)
+* 2.5 ul DNA, 20 ng/ul (50 ng total)
+
+When doing a PCR experiment, you will likely be running many samples at a time.  In this case you would create a [master mix] (link to mastermix form) using the reagents mentioned above.  (**Note:**  _The GoTaq Master Mix is a reagent and should not be confused with the PCR master mix, which is simply a mixture of the mentioned reagents._), which contains the GoTaq master mix.)  The volume of each reagent is the number of samples multiplied by the reaction volume of that reagent for one sample/well.  These volumes are increased by 10% in order to adjust for pipetting errors.  See the figure below for details:
+
+```{r  out.width = "85%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/pcr_mastermix_example.png") 
+```
+
+The master mix is then distributed among the reaction wells, which is followed by the addition of DNA.  After the PCR reactions have been created, the thermocycler needs to be set up.
+
+## Thermocycler {#thermocycler}
+
+The thermocycler is a machine that "thermo" "cycles".  The machine can be programmed to cycle through the necessary temperatures required to amplifiy DNA using the PCR reaction described previously.  Not all primers/DNA/reagent combinations work with the same thermocycle program, but generally the following program is a good place to start:
+
+```{r  out.width = "85%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/pcr_basic_program.png") 
+```
+
+Please see the video mentioned at the beginning of the [PCR Experiment section](#pcr_experiment) to get a better idea of what these steps entail.  It might also be a good time to use your Googling skills.

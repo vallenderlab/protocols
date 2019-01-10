@@ -1,0 +1,84 @@
+# Molecular: Noteworthy Techniques {#noteworthy_techniques} 
+
+  There are many techniques that people use in order to efficiently preform molecualr experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some of them seem redundant, and I would certainly say that they are.  However, I would suggest following this section as best as you can for the sake of reproducibility.  
+  
+  It's also important to note that not all of these techniques will be useful for every usecase.  You'll have to use your best judgement to determine what's necessary for the experiment or task at hand.  Don't forget it's ok to ask for help too.  After getting used to cooking at the workbench, things will begin to fall into place, and many of these tricks will become second nature.  Below I've listed some of the noteworthy techniques that we use in our lab.  It's not comprehensive, but it is useful.
+
+## Experiment Preperation and Design {#exp_prep_des}
+
+Always prepare your experiment ahead of time, wheather it's the night before or a few hours before you need begin.
+
+### Timing
+
+Timing is always important.  Wheather you are doing an experiment for the first time or you are trying to optimize an experiment, it's a wise idea to time yourself.  Knowing the time will help you plan experiments in the future.
+
+Cell culture and animal model experiments take days/weeks/months of time to execute so careful planning is needed in order to optimize the time of everyone involved.  The same is needed for molecular experiments, but usually only on an hourly/daily/weekly time schedule.
+
+### Reading
+
+Always read through the manufacturer's and/or proprietary protocols that you will be using at least a day in advance, and then review the protocol before preparing your experiment.  You may also want to read alternative instruction or online forums in order to see what
+other scientists are doing to solve the same problems.
+
+### Calculating
+
+Before doing any experiment always work through calculations that may be needed prior to an experiment.  It's never a good idea or feeling to begin doing math that takes 20 minutes in the middle of a time sensitive protocol that only allows for 5 minutes of extra time.  Human error is also more frequently introduced, when attempting to *quickly* work out math problems.  
+
+## Common Maths
+
+  This section is very helpful for all of the complex calculus you will be using on a day to day basis.
+
+### Dilutions
+
+  Please memorize the C~i~V~i~ = C~f~V~f~ formula for making dilutions.  It will be used repeatedly during your stay here.  The core concept and formula is M = CV.  In a dilution the mass of the solute does not change (e.g. M~i~ = M~f~).  It's very important that you do this math ahead of time after you've designed your experiment.  Make sure that you have enough of your solution at each stage of your dilution.  For example, if you are diluting your primers for a PCR and you only have 125 ul of 200 uM, then there is a maximum amount of 100 uM solution that you will be able to make:
+
+> C~i~ = 200 uM, V~i~ = 125 ul, C~f~ = 100 uM, V~f~ = The maximum amount of 100 uM solution that we can make.
+V~f~ = (200 uM) * (125 uL) / 100 uM = 600 uL
+
+So the maximum amount of 100 uM solution that we will be able to make is 600 uL.
+
+#### Primer Dilutions {#primer_dilutions}
+
+Whenever new primers arrive it's alwasy good to resuspend them immediatly, aliquot them, and then freeze down the stock tubes.
+
+>**For a 100 uM stock or psuedo-working solution**
+Dissolve fresh primer with the 10X volume of water as its concentration to get a 100 uM concentration.
+>
+>For example, for 25 nmoles (nanomoles) of primer, add 250 ul of water. This will give you a concentration of 0.0001 M or 0.1 mM or 100 uM.
+>
+>(25 nmoles/L) (x moles/250 x 10-6 L) = .0001 mole/L = 0.0001 M = 0.1 mM = 100 uM
+
+>**For a 200 uM stock solution**
+Dissolve fresh primer with the 5X volume of water as its concentration to get a 200 uM concentration.
+For example, for 25 nmoles (nanomoles) of primer, add 125 ul of water. This will give you a concentration of 0.0002 M or 0.2 mM or 200 uM.
+(25 nmoles/L) (x moles/125 x 10-6 L) = .0002 mole/L = 0.0002 M = 0.2 mM = 200 uM
+
+If this is confusing to you, then try using the [primer resuspension calculator](https://www.idtdna.com/calc/resuspension/) by IDT or ask someone in the lab.
+
+  
+## Pipetting and Other Wet Lab Skills
+
+Pipetting is one of the very basic techniques that you will need to know for most labs.  This lab in particular relies heavily on pipetting, so developing good pipetting skills is vital for success and efficiency.
+
+### Proper pipetting {#proper_pipetting}
+
+There are many special techniques that you can use in order to pipet like a seasoned professional.  Gilson has a very comprehensive manual that I would suggest going over.  It's mentioned in [this](https://bitesizebio.com/344/17-ways-to-stop-pipetting-errors-ruining-your-experiments/) Bitesize Bio blog post on pipetting technique.
+
+### Tips {#Tips}
+
+While many times preference plays a huge role in what pipette tips are purchased, there are many specialized tips available on the market.  Some pipettors can only be used with certain tips, and some tips can only be used with certain pipettors.  Some pipettor tips have special properties, such as being sterile (rnase, dnase, and protease free), or having filtered tips.  Filtered tips are useful for preventing pipettor contamination.  They are vital in certain situations such as DNA/RNA isolation and cell culture.  In these situations it's usually important to utilize dnase/rnase/protease free tips that also have a filter.
+  
+## Preserving and Contamination of Reagents {#contamination_reagents}
+
+It's import for any experiment to prevent cross contamination of any kind.  With cell culture it's bacteria, and with many molecular experiments it's DNA/RNA contamination from other samples.  It's also highly important to prevent the contamination of reagents, which could affect the current and all future experiments that use said reagent.  This is why it's necessary to make working solutions of your stock reagents.  It might take some time, but it beats having to troubleshoot why an experiment has gone wrong.  Working solutions also help you pre-calculate the amount of reagent you have for any one experiment.  That way you don't find out your low on attractene in the middle of a cell culture experiment or that you don't have enough qPCR primer to finish your master mixes.
+
+### Clean workspace {#clean_workspace}
+
+Having a clean workspace also helps prevent contamination.  Tidying up your workspace before and after an experiment helps keep things in order, which in turn helps you focus on your assay vs. finding the right pipettor underneath your stack of protocols.  Clearing your workspace also gives you the opportunity to use 70% ethanol to clean the workbench and the equipment.  This step is important to remove any unwanted debris, wheather it be tissue, DNA, RNA, skin cells (your own or someone elses), chemicals, and bacteria.  Cleaning in this manner also makes the lab bench a safe place for your lab notebook.
+
+### Stock vs Psuedo-stock vs Working Solutions {#reagent_scheme}
+ 
+It's wise to create stock and working solutions in order preserve your reagents and to prevent contamination.  The stock solution is the solution of the largest volume and/or concentration.  Generally, the stock solution is kept in the manufacturer's container for easy identification and to prevent contamination.  A working solution is an aliquot of the stock solution that is used in an experiment.  In some situations it might be a good idea to make a psuedo-stock solution (at half the concentration of the stock) before a working solution is made.  This is an extra step that not only prevents frequent freeze thaw cycles of your stock solution, but it also lowers the number of times that you have to pipette into and out of the stock solution.
+
+### Spinning down reagents and samples {#spinning_down}
+
+When working through an experiment or protocl, gentle centrifugation of various tubes/plates is often necessary.  Air bubbles, liquid on the sides, and liquid on the top is not only annoying, but it also frequently leads to contamination or inproper volume/concentration measurements.  Remember to always spin your tubes down so that you get reliable results.  If you end up contaminating some of your reagents, then clean your workspace thoroughly and dispose of anything that you suspect to be contaminated (check your inventory first).  Proceed by creating more aliquots with the psuedo-stock solution.
