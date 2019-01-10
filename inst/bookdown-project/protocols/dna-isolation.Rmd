@@ -1,0 +1,9 @@
+# DNA Isolation {#dna_isolation}
+
+Our lab has used the following protocols for DNA isolation:
+
+* FlexiGene DNA Kit for blood/buffy coat
+* Gentra Puregene Blood Kit
+* QIAmp DNA Micro Kit
+* QIAmp DNA Stool Mini Kit
+* [TRIzol](#trizol_protocols)
