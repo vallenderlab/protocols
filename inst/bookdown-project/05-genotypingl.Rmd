@@ -1,0 +1,39 @@
+# Genotyping 
+
+More to come..
+
+## Polymerase Chain Reaction (PCR) {#pcr_protocol}
+In order to prepare for a PCR several things need to be in place already.
+
+1. [DNA has been isolated](#dna_isolation) and verified from the target organisms.
+2. Primers have been designed, ordered, [resuspending](#stock_solution), and [diluted](#working_solution) to the proper concentrations.
+3. The experiment has been [designed, and the workspace has been prepared](#noteworthy_techniques).
+4. A program has been created on the [thermocycler](#thermocycler), and the QiAxcel has been prepared for a gel read.
+
+### Primers
+
+Primers are the cornerstone of any PCR.  Many [vendors sell primers](#ordering) that already work with a particular gene.  However, many scientists have to design their own primers, because the gene of interest is not available from a commercial distributor.  After the primers have been obtained, they need to be resuspended in DNAse free molecular grade water.  This is called the "stock solution".  A "working solution(s)" should also be made to preserve the stock solution.
+
+### PCR Experiment {#pcr_experiment}
+
+And finally on to the PCR experiment.  Watch this [cool video](https://www.youtube.com/watch?v=2KoLnIwoZKU) of PCR in action.  It's short and sweet, but to the point.
+
+## Restriction Fragment Length Polymorphism {#restriction_enzyme}
+
+More to come...
+
+## Gel-Electrophoresis (Protocol Under Development)
+
+Generally we use the QIAxcel for electrophoresis, but we also have the reagents and equipment to run a classic gel using ethidium bromide.  (More to come here)
+
+## Capillary-Electrophoresis
+
+The BioCalculator software is used by the QIAxcel machine for capillary electrophoresis, which is used to replace the more labor intensive gel electrophoresis.  Qiagen's [intorductory video](https://www.qiagen.com/us/resources/e-learning/videos/qiaxcel-advanced/?akamai-feo=off) is a good place to get some basic information about the machine and how to set it up and use it.  It would also be advised to read the User Manual, which can be found in lab drawer, or as a PDF file on the Vallender Lab drive.
+  
+### Analysis
+
+More to come...
+
+## DNA Sequencing {#dna_sequencing}
+
+More to come...
