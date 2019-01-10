@@ -1,4 +1,4 @@
-# Isolation
+# Molecular: Isolation
 
 Isolating various compunds is very important in a genetics lab.  There are many different techniques that
 can be used to isolate various biological material, but we will only be covering the most common

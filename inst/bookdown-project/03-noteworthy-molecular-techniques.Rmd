@@ -1,4 +1,4 @@
-# Noteworthy Molecular Techniques {#noteworthy_techniques} 
+# Molecular: Noteworthy Techniques {#noteworthy_techniques} 
 
   There are many techniques that people use in order to efficiently preform molecualr experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some of them seem redundant, and I would certainly say that they are.  However, I would suggest following this section as best as you can for the sake of reproducibility.  
   
