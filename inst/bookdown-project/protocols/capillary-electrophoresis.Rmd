@@ -1,0 +1,53 @@
+# Setup for Capillary Electrophoresis
+
+The following guide is for most cases where PCR product needs to be analyzed, however, special circumstances may require different or additional setup.  Most of this information can be found on page 5-6 of the User Manual.  It's important to make sure your PCR tubes are well placed on the QIAxcel cart before setting the parameters on the BioCalculator software.  If you have varying numbers of PCR product on each row, **replace empty wells with water**.  The channels will malfunction and will have to be Purged (90 minute process) if they are injected with air bubbles.
+
+1.  Remove all air bubbles from the PCR tubes/plate by briefly spinning down the samples.
+2.  Place the PCR tubes or 96 well plate on the QIAXcel cart.
+3.  Make sure each column has the same number of samples.  If a row is empty, then replace it with water to prevent air bubble formation in the channels.
+4.  Close the hatch and open the BioCalculator Software.  The shortcut can be found in the QIAxcel folder on the deskop.
+5.  Open the Instrument Control panel in order to connect to the QIAxcel.
+6.  Check the __Status Panel__ to make sure there are no red indicators.
+7.  Use the AM420 __Method__ for each row (A through H). which is determined by the __Pos__ tab.
+8.  Create a unique __Sample__ name for each row.  Your files will be named using this parameter.
+    a.  (Optional) Click the __Sample Info__ box to create a table for your PCR sample arrangement.
+9.  Leave __Time__ blank, but for each row being used the __Runs__ section must be equal to "1".
+10.  Check the __Inc__ box for all rows being used, except for the last row.
+11.  Under __Chan:__, check the boxes that correspond to the columns being used in the experiment.
+12.  Choose a fun sound file to indicate when the electrophoresis run has finished.
+13.  Choose a __Local Data Directory__ (Defaults to C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data)
+14.  Choose a __User ID__ for yourself that you will always use for your experiments.
+    a.  If you have a UMMC username, then that would suffice.
+15.  Choose a __Plate ID__ that describes the gel run.
+    a.  A good practice is to include the date (YYYY-MM-DD) along with the gene(s) or experiment(s) or project(s) name.
+    b.  Examples:  "2015-07-29_DRD4_DMSO" or "2018-06-21_scRNAseq_Luc2"
+16.  Check the following boxes:
+    a.  Automatically analyze after data acquisition
+    b.  Autoscale time axis during acquisition
+    c.  Include reference marker table.
+17.  Click the __Marker__ button and make sure your markers are correct.
+18.  __Run__ the experiment.
+
+# Organizing Data
+
+(Note:  This mostly applies for the primary user account named QIAxcel.  Since this account is being shared by multiple people, this short guide should help keep things organized.  Information about QIAxcel data output can be found on page 5-10 and 5-20 of the User Manual.)
+
+  In order to better keep up with data produced by the QIAxcel you can utilize the features that come with the BioCalculator software.  By default the Data Directory is set to C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data, which is a shortcut to QIAxcels installation directory.  This can be changed if needed, however, it's recommended to use this folder to keep the desktop clean and organized.  In the Instrument Control panel you can use the User ID and Plate ID to direct the output of the QIAxcel after it finishes running your gel.  The User ID is used as a subfolder in the Data Directory.  The Plate ID is used as a subfolder in the User ID directory.  Please try to use the same User ID if you can.  Folders have been created based on UMMC usernames for your convenience.
+
+* This setup is not meant to pidgeon-hole you into organizing your data in this fashion, but to simply provide some guidelines to keep the public file system less confusing.  If you desire, then a profile can be made for you on the laptop so that you can manage your data in your own folders.
+    * Please don't lock your profile with a password.
+    * Please make sure to log off of your personal profile when you finish.
+    * Only one instance of the BioCalculator software can be open, so please close it on your profile when you're done.  
+* If you need to access data produced before June 21, 2018, it can be found in the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data/2018-06-21_Archive folder.  
+* The folders below have been created based on UMMC usernames, so you can use those if you'd like.  The are in the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data root directory.
+    * rgilmore
+    * evallender
+    * shutchins2
+    * xzhang3
+    * cmyers3
+    * mcbaily
+    
+
+# Syncing Data
+
+For the computer used to operate the QIAxcel there is a designated USB drive that has the name __PCR_Station__.  Please return this USB drive to the computer after you finish offloading your data.  And remember not to encrypt it on UMMC machines.  Inside of the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/ folder there is a file called SYNC Data to USB.  This is a batch file.  If you double click it, the files in C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data/ will begin to copy themselves over to the USB drive as long as it's the E:/ Volume.  Based on the command it will only copy file/folders that are are new or have been updated.
