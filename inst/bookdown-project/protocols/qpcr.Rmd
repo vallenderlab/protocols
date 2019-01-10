@@ -1,0 +1,3 @@
+# qPCR
+
+Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still used for certain experiments or for validating NGS/HTS results.
