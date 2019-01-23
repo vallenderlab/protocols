@@ -26,6 +26,18 @@ This guide was made for the purposes of showcasing the various ways the lab has
 implemented various experimental procedures, as well as various lab management tasks and
 administrative related duties at the University of Mississippi Medical Center in Jackson, MS.
 
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# set seed for reproducible widget id
+if (requireNamespace("htmltools", quietly = TRUE)) {
+  htmlwidgets::setWidgetIdSeed(42)
+}
+library(leaflet)
+leaflet() %>% 
+  setView(lng = -90.1730625, lat = 32.3308125, zoom = 11) %>% 
+  addTiles() %>% 
+  addMarkers(lng = -90.1730625, lat = 32.3308125, popup = "UMMC's Guyton Research Complex")
+```
+
 The chapters in this book are meant to simply be a reference point for completing tasks.  If you find
 a mistake, then please let someone know or edit it yourself on GitHub.  Feel free to add your own
 chapter or section using [bookdown](https://bookdown.org/) via RStudio.
