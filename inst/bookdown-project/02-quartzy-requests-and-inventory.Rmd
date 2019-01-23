@@ -16,7 +16,7 @@ to our *Administrative Support Coordinator* who will create a UMMC Purchase Orde
 
 If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.
 
-Some items like the ones below are ordered from particular vendors.:
+Some items like the ones below are ordered from particular vendors:
 
 * Primers - [Design](#design_primers) and then Order through [IDT](https://www.idtdna.com/pages/home)
 * EtOH - Ethanol is ordered from UMMC's "pharmacy".  If you need ethanol, then ask someone.
