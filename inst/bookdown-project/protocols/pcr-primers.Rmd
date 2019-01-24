@@ -22,10 +22,29 @@ Before [resuspending](#primer_dilutions) the primers you should note a few thing
     * Always spin down the resupended primer.
     * Always use a new tip.
 3. Don't contaminate the stock tube.  (Do you see what I did there?)
-4. Resuspend primer stock solutions to *100uM* or *200uM*, create working solutions, and then freeze them all down.
+4. Resuspend primer stock solutions to *100uM* or *200uM*, create pseudo-working solutions if applicable, create working solutions, and then freeze them all down.
+
+**For a 200 uM stock solution:**
+
+>Dissolve fresh primer with the 5X volume of water as its concentration to get a 200 uM concentration.
+>
+>For example, for 25 nmoles (nanomoles) of primer, add 125 ul of water. This will give you a concentration of 0.0002 M or 0.2 mM or 200 uM.
+>
+>(25 nmoles/L) (x moles/125 * 10-6 L) = .0002 mole/L = 0.0002 M = 0.2 mM = 200 uM
+
+**For a 100 uM stock or psuedo-working solution:**
+
+>Dissolve fresh primer with the 10X volume of water as its concentration to get a 100 uM concentration.
+>
+>For example, for 25 nmoles (nanomoles) of primer, add 250 ul of water. This will give you a concentration of 0.0001 M or 0.1 mM or 100 uM.
+>
+>(25 nmoles/L) (x moles/250 * 10-6 L) = .0001 mole/L = 0.0001 M = 0.1 mM = 100 uM
+
+(**Note**:  _If this is confusing to you, then try using the [primer resuspension calculator](https://www.idtdna.com/calc/resuspension/) by IDT._)
+
 5. If it's available use TE buffer to store the stock solutions.
 6. For most cases use no more than 1/3 of the volume of your stock tubes to create the first working solution.
- 
+
 # Working Solution {#working_solution}
 
 Working solutions are exactly what they sound like.  The solutions that you will be using during an experiment.  Generally, the working solution will be at *10uM*, but they can be adjusted for various resons or in special protocols.  When making working solutions it's important not to contaminate the stock tube.  If you want to get fancy, then you can make several dilution steps for your primers to reduce freeze/thawing of the stock solution (e.g. 200uM stock, 100uM psuedo-working, and 10uM working).
