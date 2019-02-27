@@ -1,4 +1,4 @@
-# TRIzol Protocols {#trizol_protocols}
+## TRIzol Protocols {#trizol_protocols}
 
 * Trizol (DNA/RNA)
     * TRIzol® LS Reagent (Custom)

@@ -4,11 +4,11 @@ Isolating various compunds is very important in a genetics lab.  There are many 
 can be used to isolate various biological material, but we will only be covering the most common
 techniques used in our lab:
 
-* Leukocyte Isolation from blood
-* DNA Isolation 
-* RNA Isolation 
+* [Leukocyte Isolation](#leukocyte_isolation) from blood
+* [DNA Isolation](#dna_isolation)
+* RNA Isolation
 
-## Leukocytes (Buffy Coat) Isolation {#leukocyte_isolation}
+## Leukocytes (Buffy Coat) Isolation
 
 Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means they have a nucleus unlike red blood cells.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
 

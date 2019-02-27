@@ -1,4 +1,4 @@
-# Leukocytes (Buffy Coat) Isolation {#leukocyte_isolation}
+## Leukocytes (Buffy Coat) Isolation {#leukocyte_isolation}
 
 For this procedure we have used BD Pharm Lysis buffer.  The below protocol was given to us by a neighboring lab (ask if you need to know the source of this protocol):
 
@@ -14,7 +14,7 @@ For this procedure we have used BD Pharm Lysis buffer.  The below protocol was g
 10.	Repeat wash step, until solution is mostly clear.  
 11.	Re-suspend the pellet (cells) in a small volume (1 ml) of 1x PBS, 2% FBS, and then proceed with further cleaning or DNA isolation.
 
-## Further Washing and Platelet Removal (Optional)
+### Further Washing and Platelet Removal (Optional)
 
 Washing the cell isolate
 
