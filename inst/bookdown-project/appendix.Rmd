@@ -1,0 +1,20 @@
+```{r child = 'appendix/a-troubleshooting.Rmd'}
+```
+
+```{r child = 'appendix/b-scaling-tables.Rmd'}
+```
+
+```{r child = 'appendix/c-equipment-and-manuals.Rmd'}
+```
+
+```{r child = 'appendix/d-kit-protocols.Rmd'}
+```
+
+```{r child = 'appendix/e-experiment-templates.Rmd'}
+```
+
+```{r child = 'appendix/f-safety-information.Rmd'}
+```
+
+```{r child = 'appendix/g-projects.Rmd'}
+```
