@@ -1,6 +1,6 @@
 # Molecular: Noteworthy Techniques {#noteworthy_techniques} 
 
-  In molecular genetics labs there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant, and will be unnecessary for every usecase.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
+In molecular genetics labs there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant, and will be unnecessary for every usecase.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
 
 ## Things to Consider
 
@@ -20,11 +20,11 @@ Pipetting is one of the very basic techniques that you will need to know for mos
 
 There are many special techniques that you can use in order to pipet like a seasoned professional.  Gilson has a very comprehensive manual that I would suggest going over.  It's mentioned in [this](https://bitesizebio.com/344/17-ways-to-stop-pipetting-errors-ruining-your-experiments/) Bitesize Bio blog post on pipetting technique.
 
-While many times preference plays a huge role in what pipette tips are purchased, there are many specialized tips available on the market.  Some pipettors can only be used with certain tips, and some tips can only be used with certain pipettors.  Some pipettor tips have special properties, such as being sterile (rnase, dnase, and protease free), or having filtered tips.  Filtered tips are useful for preventing pipettor contamination.  They are vital in certain situations such as DNA/RNA isolation and cell culture.  In these situations it's usually important to utilize dnase/rnase/protease free tips that also have a filter.
+While preference often plays a huge role in what pipette tips are purchased, there are many types of specialized tips available on the market.  Some pipettors can only be used with certain tips, and some tips can only be used with certain pipettors.  Some pipettor tips have special properties, such as being sterile (rnase, dnase, and protease free), or having filtered tips.  Filtered tips are useful for preventing pipettor contamination.  They are vital in certain situations such as DNA/RNA isolation and cell culture.  In these situations it's usually important to utilize dnase/rnase/protease free tips that also have a filter.
 
 ## Preparing for an Experiment
 
-Always prepare your experiment ahead of time, wheather it's the night before or a few hours before you need begin.
+Always prepare your experiment ahead of time, wheather it's the night before or a few hours before you need to begin.
 
 ### Reading
 
