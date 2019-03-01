@@ -6,7 +6,7 @@ techniques used in our lab:
 
 * [Leukocyte Isolation](#leukocyte_isolation) from blood
 * [DNA Isolation](#dna_isolation)
-* RNA Isolation
+* [RNA Isolation](#rna_isolation)
 
 ## Leukocytes (Buffy Coat) Isolation
 
@@ -16,25 +16,19 @@ Leukocytes, more commonly known as white blood cells, are a type of peripheral b
 knitr::include_graphics("PCR-docs/blood_seperation.png") 
 ```
 
-It its therefore advised to isolate the leukocytes before proceeding with [DNA isolation](#dna_isolation) (or [RNA isolotion](#rna_isolation) if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
+It its therefore advised to [isolate the leukocytes](#leukocyte_isolation) before proceeding with [DNA isolation](#dna_isolation) (or [RNA isolotion](#rna_isolation) if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
 
-## DNA Isolation {#dna_isolation}
+## Isolating DNA
 
 Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.).  
 
-DNA isolation is normally followed by some type of genotyping experiment.  Genotyping is useful when
-we would like to compare the genetics of multiple animals.  Some of the genotyping methods that we
-use in our lab include:
+DNA isolation is normally followed by some type of [genotyping](#molecular_genotyping) experiment.
 
-* [PCR](#pcr_protocol)
-* RFLP - Restriction Fragment Length Polymorphism
-* DNA sequencing
-
-## RNA Isolation {#rna_isolation}
+## Isolating RNA
 
 Qiagen also has a methods article for [RNA](https://www.qiagen.com/us/resources/molecular-biology-methods/rna/) on their website.  RNA is most often used to determine the expression level of protein coding genes.  For studies that involve animals with varying treatment conditions (placebo vs drug1), we might want to do differential expression (DE) analysis.  DE analysis can be accomplished with the following techniques used in our lab:
 
-* qPCR
+* [qPCR](#qpcr_protocol)
 * RNAseq - NGS/HTS
 
 RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also __MUCH__ more sensitive to degredation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
