@@ -1,4 +1,4 @@
-## Leukocytes (Buffy Coat) Isolation {#leukocyte_isolation}
+## Leukocytes (Buffy Coat) Isolation Protocol {#leukocyte_isolation}
 
 For this procedure we have used BD Pharm Lysis buffer.  The below protocol was given to us by a neighboring lab (ask if you need to know the source of this protocol):
 
