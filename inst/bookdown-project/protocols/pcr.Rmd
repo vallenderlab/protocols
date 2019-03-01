@@ -1,8 +1,8 @@
-# Setup for PCR
+## PCR Protocol {#pcr_protocol}
 
 There are many ways to set up a PCR. Below is the protocol I have used most often here in lab, based on product usage information provided with the Promega GoTaq Colorless Master Mix kit that we purchase.  Depending on the number of samples in the PCR run, differing strategies can be taken to reduce time spent at the bench and consumables used to create the master mix.  (See the [Noteworthy Molecular Techniques section](#noteworthy_techniques))
 
-## GoTaq Colorless Master Mix
+### GoTaq Colorless Master Mix
 
 Generally, we use a total volume of 25 ul for each PCR reaction (sample/well):
 
@@ -25,7 +25,7 @@ knitr::include_graphics("images/pcr_mastermix_example.png")
 
 The master mix is then distributed among the reaction wells, which is followed by the addition of DNA.  After the PCR reactions have been created, the thermocycler needs to be set up.
 
-## Thermocycler {#thermocycler}
+### Thermocycler {#thermocycler}
 
 The thermocycler is a machine that "thermo" "cycles".  The machine can be programmed to cycle through the necessary temperatures required to amplifiy DNA using the PCR reaction described previously.  Not all primers/DNA/reagent combinations work with the same thermocycle program, but generally the following program is a good place to start:
 
