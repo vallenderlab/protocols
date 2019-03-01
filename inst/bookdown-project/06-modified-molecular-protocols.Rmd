@@ -5,3 +5,12 @@
 
 ```{r child = 'protocols/dna-isolation.Rmd'}
 ```
+
+```{r child = 'protocols/rna-isolation.Rmd'}
+```
+
+```{r child = 'protocols/pcr.Rmd'}
+```
+
+```{r child = 'protocols/qpcr.Rmd'}
+```
