@@ -1,22 +1,27 @@
-# Molecular: Genotyping 
+# Molecular: Genotyping {#molecular_genotyping}
 
-More to come..
+Genotyping is useful when we would like to compare the genetics of multiple animals.  Some of the genotyping methods that we use in our lab include:
 
-## Polymerase Chain Reaction (PCR) {#pcr_protocol}
+* [PCR](#polymerase_chain_reaction)
+* RFLP - Restriction Fragment Length Polymorphism
+* DNA sequencing
+
+## Polymerase Chain Reaction (PCR)
+
 In order to prepare for a PCR several things need to be in place already.
 
 1. [DNA has been isolated](#dna_isolation) and verified from the target organisms.
 2. Primers have been designed, ordered, [resuspending](#stock_solution), and [diluted](#working_solution) to the proper concentrations.
 3. The experiment has been [designed, and the workspace has been prepared](#noteworthy_techniques).
-4. A program has been created on the [thermocycler](#thermocycler), and the QiAxcel has been prepared for a gel read.
+4. A program has to be created on the [thermocycler](#thermocycler), and the QiAxcel has been prepared for a gel read.
 
 ### Primers
 
 Primers are the cornerstone of any PCR.  Many [vendors sell primers](#ordering) that already work with a particular gene.  However, many scientists have to design their own primers, because the gene of interest is not available from a commercial distributor.  After the primers have been obtained, they need to be resuspended in DNAse free molecular grade water.  This is called the "stock solution".  A "working solution(s)" should also be made to preserve the stock solution.
 
-### PCR Experiment {#pcr_experiment}
+### Polymerase Chain Reaction {#polymerase_chain_reaction}
 
-And finally on to the PCR experiment.  Watch this [cool video](https://www.youtube.com/watch?v=2KoLnIwoZKU) of PCR in action.  It's short and sweet, but to the point.
+And finally on to the PCR experiment.  Watch this [cool video](https://www.youtube.com/watch?v=2KoLnIwoZKU) of PCR in action.  It's short and sweet, but to the point.  You can also take a look at our [pcr protocol](#pcr_protocol).
 
 ## Restriction Fragment Length Polymorphism {#restriction_enzyme}
 
