@@ -1,13 +1,4 @@
-## RNA Isolation {#rna_isolation}
-
-RNA is most often used to determine the expression level of protein coding genes.  For studies that involve animals with varying treatment conditions (placebo vs drug1), we might want to do differential expression (DE) analysis.  DE analysis can be accomplished with the following techniques:
-
-* qPCR
-* RNAseq - NGS/HTS
-
-Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still used for certain experiments or for validating NGS/HTS results.
-
-RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also MUCH more sensitive to degredation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
+## RNA Isolation Protocol {#rna_isolation}
 
 ### RNA-TODO: 
 
