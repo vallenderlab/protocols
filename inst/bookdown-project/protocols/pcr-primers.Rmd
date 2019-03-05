@@ -1,12 +1,12 @@
-# Designing Primers {#design_primers}
+## Designing Primers {#design_primers}
 
 Designing primers is a good way to get familiar with DNA as a sequence.  It will also help you understand some of the chemistry that's involved with a PCR reaction.  There are plenty of guides out there, but [this one](https://genome.ucsc.edu/cgi-bin/hgPcr?hgsid=676475057_IWRKULUdIcAeQLDoEcOLx9JixaFC) is one of our favorites.  In order to design a primer you must first have a DNA sequence of interest.  This can be accomplished in several ways.  99% of the time you have a target gene of interest.  So if you can find the NCBI accession number or GI number (deprecated for future annotations), then you can get your sequence of interest.  Some common tools to fascilitate this process include [Primer3Plus](http://primer3plus.com/cgi-bin/dev/primer3plus.cgi), [NCBI's PrimerBlast](https://www.ncbi.nlm.nih.gov/tools/primer-blast/), [UCSC's Blat](https://genome.ucsc.edu/cgi-bin/hgBlat), and [UCSC's In-Silico PCR](https://genome.ucsc.edu/cgi-bin/hgPcr?hgsid=676475057_IWRKULUdIcAeQLDoEcOLx9JixaFC).  UCSC and NCBI also have a wide array of useful tools that are worth exploring.
 
-## Ordering Primers {#order_primers}
+### Ordering Primers {#order_primers}
 
 Once the primers have been designed, verify them with someone else in the lab and then consult Dr. Vallender.  Generally, he will order the primers himself from Integrated DNA Technologies.  IDT is another great resource for learning more about molecular biology.
 
-## Stock Solution {#stock_solution}
+### Stock Solution {#stock_solution}
 
 (*Note:*  _Please read this section along with the [noteworthy techniques](#noteworthy_techniques) section and [dilution](#dilutions) section if you've never resuspended a primer before._)
 
@@ -45,6 +45,6 @@ Before [resuspending](#primer_dilutions) the primers you should note a few thing
 5. If it's available use TE buffer to store the stock solutions.
 6. For most cases use no more than 1/3 of the volume of your stock tubes to create the first working solution.
 
-## Working Solution {#working_solution}
+### Working Solution {#working_solution}
 
 Working solutions are exactly what they sound like.  The solutions that you will be using during an experiment.  Generally, the working solution will be at *10uM*, but they can be adjusted for various resons or in special protocols.  When making working solutions it's important not to contaminate the stock tube.  If you want to get fancy, then you can make several dilution steps for your primers to reduce freeze/thawing of the stock solution (e.g. 200uM stock, 100uM psuedo-working, and 10uM working).
