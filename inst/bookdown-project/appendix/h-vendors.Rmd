@@ -1,4 +1,4 @@
-# Vendors {#vendors}
+# Appendix H: Vendors {#vendors}
 
 * Primers - [Design](#design_primers) and then Order through [IDT](https://www.idtdna.com/pages/home)
 * EtOH - Ethanol is ordered from UMMC's "pharmacy".  If you need ethanol, then ask someone.
