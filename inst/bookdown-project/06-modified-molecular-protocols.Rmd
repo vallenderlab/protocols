@@ -9,8 +9,15 @@
 ```{r child = 'protocols/rna-isolation.Rmd'}
 ```
 
+```{r child = 'protocols/pcr-primers.Rmd'}
+```
+
 ```{r child = 'protocols/pcr.Rmd'}
+```
+
+```{r child = 'protocols/capillary-electrophoresis.Rmd'}
 ```
 
 ```{r child = 'protocols/qpcr.Rmd'}
 ```
+
