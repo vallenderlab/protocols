@@ -25,6 +25,10 @@ knitr::include_graphics("images/pcr_mastermix_example.png")
 
 The master mix is then distributed among the reaction wells, which is followed by the addition of DNA.  After the PCR reactions have been created, the thermocycler needs to be set up.
 
+### Restriction Fragment Length Polymorphism Analysis (Optional) {#restriction_enzyme}
+
+After PCR, a restriction enzyme can be used to digest DNA at restriction enzyme sites for targeted genes.  Samples with varying sites will have differing restriction fragment lengths, which can be exploited in order to identify allelic differences.
+
 ### Thermocycler {#thermocycler}
 
 The thermocycler is a machine that "thermo" "cycles".  The machine can be programmed to cycle through the necessary temperatures required to amplifiy DNA using the PCR reaction described previously.  Not all primers/DNA/reagent combinations work with the same thermocycle program, but generally the following program is a good place to start:
@@ -32,5 +36,3 @@ The thermocycler is a machine that "thermo" "cycles".  The machine can be progra
 ```{r  out.width = "85%", echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/pcr_basic_program.png") 
 ```
-
-Please see the video mentioned at the beginning of the [PCR Experiment section](#pcr_experiment) to get a better idea of what these steps entail.  It might also be a good time to use your Googling skills.

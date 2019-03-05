@@ -1,6 +1,8 @@
-# Setup for Capillary Electrophoresis
+# Capillary Electrophoresis
 
-The following guide is for most cases where PCR product needs to be analyzed, however, special circumstances may require different or additional setup.  Most of this information can be found on page 5-6 of the User Manual.  It's important to make sure your PCR tubes are well placed on the QIAxcel cart before setting the parameters on the BioCalculator software.  If you have varying numbers of PCR product on each row, **replace empty wells with water**.  The channels will malfunction and will have to be Purged (90 minute process) if they are injected with air bubbles.
+The BioCalculator software is used by the QIAxcel machine for capillary electrophoresis, which is used to replace the more labor intensive gel electrophoresis.  Qiagen's [introductory video](https://www.qiagen.com/us/resources/e-learning/videos/qiaxcel-advanced/?akamai-feo=off) is a good place to get some basic information about the machine and how to set it up and use it.  It would also be advised to read the User Manual, which can be found in lab drawer, or as a PDF file on the Vallender Lab drive.
+
+The following guide is for most cases where PCR product needs to be analyzed, however, special circumstances may require different or additional setup.  Most of this information can be found on page 5-6 of the User Manual.  It's important to make sure your PCR tubes are well placed on the QIAxcel cart before setting the parameters on the BioCalculator software.  If you have varying numbers of PCR product on each row, **replace empty wells with water**.  If the channels are injected with air bubbles they will have to be Purged (**a 90 minute process**), and they could be rendered permanently broken.
 
 1.  Remove all air bubbles from the PCR tubes/plate by briefly spinning down the samples.
 2.  Place the PCR tubes or 96 well plate on the QIAXcel cart.
@@ -28,7 +30,7 @@ The following guide is for most cases where PCR product needs to be analyzed, ho
 17.  Click the __Marker__ button and make sure your markers are correct.
 18.  __Run__ the experiment.
 
-# Organizing Data
+## Organizing Data
 
 (Note:  This mostly applies for the primary user account named QIAxcel.  Since this account is being shared by multiple people, this short guide should help keep things organized.  Information about QIAxcel data output can be found on page 5-10 and 5-20 of the User Manual.)
 
@@ -39,15 +41,14 @@ The following guide is for most cases where PCR product needs to be analyzed, ho
     * Please make sure to log off of your personal profile when you finish.
     * Only one instance of the BioCalculator software can be open, so please close it on your profile when you're done.  
 * If you need to access data produced before June 21, 2018, it can be found in the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data/2018-06-21_Archive folder.  
-* The folders below have been created based on UMMC usernames, so you can use those if you'd like.  The are in the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data root directory.
+* The folders below have been created based on UMMC usernames, so you can use those if you'd like.  They are in the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data root directory.
     * rgilmore
     * evallender
     * shutchins2
     * xzhang3
     * cmyers3
     * mcbaily
-    
 
-# Syncing Data
+## Syncing Data
 
 For the computer used to operate the QIAxcel there is a designated USB drive that has the name __PCR_Station__.  Please return this USB drive to the computer after you finish offloading your data.  And remember not to encrypt it on UMMC machines.  Inside of the C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/ folder there is a file called SYNC Data to USB.  This is a batch file.  If you double click it, the files in C:/Documents and Settings/QIAxcel/Desktop/QIAxcel/Data/ will begin to copy themselves over to the USB drive as long as it's the E:/ Volume.  Based on the command it will only copy file/folders that are are new or have been updated.
