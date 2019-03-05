@@ -14,16 +14,7 @@ information about what's in the lab.  Please consult somone in the lab in order 
 When you are ready to purchase an item, you can request them.  When making a request first check the Vallender Lab Inventory and then the Quartzy Shop.  If your item cannot be found, then you will have to add an item to the inventory and then request it.  Please make sure to add as much accurate information as possible when creating new inventory items.  After making a request Dr. Vallender will recieve an automated email from Quartzy so that he can approve the request.  Following approval a requisition form can be made, and emailed directly
 to our *Administrative Support Coordinator* who will create a UMMC Purchase Order for the items.
 
-If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.
-
-Some items like the ones below are ordered from particular vendors:
-
-* Primers - [Design](#design_primers) and then Order through [IDT](https://www.idtdna.com/pages/home)
-* EtOH - Ethanol is ordered from UMMC's "pharmacy".  If you need ethanol, then ask someone.
-* Office Supplies - [Staples](https://www.staples.com/).
-* General Lab Supplies - [FisherSci](https://www.fishersci.com/us/en/home.html).
-* Other chemicals?
-* Drugs?
+If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.  Additionally, you can find some of the approved vendors in the [appendix](#vendors).
 
 ## Freezer Boxes
 
