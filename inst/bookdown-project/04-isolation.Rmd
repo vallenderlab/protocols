@@ -16,7 +16,7 @@ Leukocytes, more commonly known as white blood cells, are a type of peripheral b
 knitr::include_graphics("PCR-docs/blood_seperation.png") 
 ```
 
-It its therefore advised to [isolate the leukocytes](#leukocyte_isolation) before proceeding with [DNA isolation](#dna_isolation) (or [RNA isolotion](#rna_isolation) if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
+It its therefore advised to isolate the leukocytes before proceeding with DNA isolation or RNA isolotion (if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
 
 ## Isolating DNA
 
