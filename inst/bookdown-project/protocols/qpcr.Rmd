@@ -1,3 +1,80 @@
-## qPCR {#qpcr_protocol}
+## qPCR Protocol {#qpcr_protocol}
 
-Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still used for certain experiments or for validating NGS/HTS results.
+### Materials
+
+*	Full range of pipettes and matching tips
+*	Samples and reagents (master mix, target/housekeeping primers, etc).
+*	Ice bucket/ice
+*	Cold blocks, LightCycler plates, plate film
+*	Lab notebook and/or experiment sheet
+
+### Experiment Preparation
+
+<ol type="1">
+<li>Remove all reagents from the fridge and allow to thaw on ice.  Place DNA/RNA free water on the table.  Optimally, reagents are meant to be thawed slowly, so hand thaw for a short time at the beginning.</li>
+<ol type="A">
+<li>Organize the reagents in the ice bucket in a way that makes sense for you and that is ergonomic for your workflow.</li>
+</ol>
+<li>Make sure you have all of your materials, that your workbench is clean, and that your workbench is organized the way you want it.</li>
+<li>If you haven’t done so recently, then verify that your samples and primers at the proper concentrations.</li>
+<li>While reagents are thawing, plan the experiment:</li>
+<ol type="A">
+<li>Determine # of samples.</li>
+<li>Determine # of genes (target and reference; 1 of each for larger experiments).</li>
+<li>Determine # of replicates (usually 2-3).</li>
+<li>Determine controls.</li>
+<ol type="a">
+<li>Positive control?</li>
+<li>Negative control (Always)</li>
+<ol type="i">
+<li>Water instead of cDNA</li>
+</ol>
+<li>No Template Control (Always)</li>
+<ol type="i">
+<li>No water or cDNA</li>
+</ol>
+</ol>
+<li>Design layout with the LightCycler software (print out the plate design for the lab notebook or for reference).</li>
+<li>Put aluminum plate blocks on ice.</li>
+</ol>
+<li>MATH:  Using the experiment sheet determine how much of the reagents need to be used in the master mix, and to keep for your records.</li>
+<ol type="A">
+<li>Compute 10% extra for each reagent’s volume, to account for pipetting errors.</li>
+</ol>
+<li>Preheat the LightCycler lid.</li>
+</ol>
+
+### Wet Chemistry
+
+<ol type="1">
+  <li>Utilize a lab notebook for planning experiment and taking notes during the experiment.</li>
+  <li>Mix thawed reagents by gently flicking with your fingers.  Afterwards spin down the reagents to prevent pipette contamination.  Keep reagents on ice.</li>
+  <li>Create the master mixes.</li>
+    <ol type="A">
+      <li>One for each reference gene</li>
+      <li>One for each target gene</li>
+      <li>Keep master mixes on ice at all times to avoid any unwanted chemical reactions.</li>
+      <li>Make sure to eject tips after measuring each reagent.  Never use a tip with your stock solutions that have already touched another reagent.  When in doubt, eject your tip beforehand.</li>
+    </ol>
+  <li>Plate the reaction solution.</li>
+    <ol type="A">
+      <li>Option 1 (Accuracy – For Publications):</li>
+        <ol type="a">
+          <li>Put the required volume of master mix into each well by reverse pipetting.  For this step you can utilize the same pipette tip.  You can also use a repeater pipette if the desired volume will work with the repeater pipette.</li>
+          <li>Using separate tips for each well, add the cDNA in the order you’ve set up with the LightCycler software.  Pipette the liquid in each well up and down to make sure the cDNA is mixed in each well.</li>
+        </ol>
+      <li>Option 2 (Timing – For Testing and Building qPCR skills):</li>
+        <ol type="a">
+          <li>For speed you can add all of the master mix volume and all of the replicates volume into one well.</li>
+          <li>Mix up and down with the pipette.</li>
+          <li>Distribute the appropriate volume of reaction solution to the desired number of replicate wells.</li>
+        </ol>
+      <li>Mark the plate and/or your lab notebook to keep up with what’s been plated.</li>
+      <li>Switch out the aluminum plate block when it’s no longer cold.</li>
+      <li>Don’t forget the controls.</li>
+    </ol>
+  <li>After plating is finished put the film onto the plate.  Using a kim-wipe, rub the adhesive onto the plate so that each well is sealed properly.  This also polishes the film so that the LightCycler doesn’t pick up any weird signals.</li>
+  <li>Select and Run the Lighcycler program.</li>
+</ol>
+
+### LightCycler 96 Setup

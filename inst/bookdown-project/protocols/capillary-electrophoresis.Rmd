@@ -1,4 +1,4 @@
-## Capillary Electrophoresis
+## Capillary Electrophoresis {#capillary_electrophoresis}
 
 The BioCalculator software runs the QIAxcel machine for capillary electrophoresis, which is used to replace the more labor intensive gel electrophoresis.  Qiagen's [introductory video](https://www.qiagen.com/us/resources/e-learning/videos/qiaxcel-advanced/?akamai-feo=off) is a good place to get some basic information about the machine and how to set it up and use it.  It would also be advised to read the User Manual, which can be found in lab drawer, or as a PDF file on the Vallender Lab drive.
 
