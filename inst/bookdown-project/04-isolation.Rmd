@@ -1,6 +1,6 @@
 # Molecular: Isolation
 
-Isolating various compunds is very important in a genetics lab.  There are many different techniques that
+Isolating various compounds is very important in a genetics lab.  There are many different techniques that
 can be used to isolate various biological material, but we will only be covering the most common
 techniques used in our lab:
 
@@ -10,19 +10,17 @@ techniques used in our lab:
 
 ## Leukocytes (Buffy Coat) Isolation
 
-Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means they have a nucleus unlike red blood cells.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
+Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means that unlike red blood cells PBMCs have a nucleus.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
 
 ```{r  out.width = "85%", echo=FALSE, fig.align='center'}
 knitr::include_graphics("PCR-docs/blood_seperation.png") 
 ```
 
-It its therefore advised to isolate the leukocytes before proceeding with DNA isolation or RNA isolotion (if desired) for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.  
+It its therefore advised to isolate the leukocytes before proceeding with DNA isolation for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.
 
 ## Isolating DNA
 
-Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.).  
-
-DNA isolation is normally followed by some type of [genotyping](#molecular_genotyping) experiment.
+Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  It's important to note that DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.), and are normally followed by some type of [genotyping](#molecular_genotyping) experiment.
 
 ## Isolating RNA
 
@@ -31,4 +29,4 @@ Qiagen also has a methods article for [RNA](https://www.qiagen.com/us/resources/
 * [qPCR](#qpcr_protocol)
 * RNAseq - NGS/HTS
 
-RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also __MUCH__ more sensitive to degredation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
+RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA is also __MUCH__ more sensitive to degradation, so extra care has to be taken in order to preserve the RNA for downstream analysis.
