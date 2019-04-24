@@ -3,12 +3,12 @@
 Genotyping is useful when we would like to compare the genetics of multiple animals.  Some of the genotyping methods that we use in our lab include:
 
 * [PCR](#pcr_protocol)
-  * [Designing Primers](#design_primers)
-  * Thermocycler Setup
-  * RFLP - Restriction Fragment Length Polymorphism
+    * [Designing Primers](#design_primers)
+    * Thermocycler Setup
+    * RFLP - Restriction Fragment Length Polymorphism
 * Electrophoresis
-  * Gel
-  * [Capillary](#capillary_electrophoresis)
+    * Gel
+    * [Capillary](#capillary_electrophoresis)
 * [qPCR](#qpcr_protocol)
 * DNA sequencing
 
@@ -34,20 +34,6 @@ Generally, we use the QIAxcel for capillary electrophoresis, which is much faste
 ### Analyzing Gels
 
 More to come...
-
-## Quantitative/Real-Time PCR
-
-(**Note**:  _For our lab we use Roche's Universal Proble Library (preferred), and SYBR Green.  The qPCR protocol is written for the UPL system._)
-
-Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still used for certain experiments and/or for validating NGS/HTS results.  qPCR machines work the same as traditional thermocyclers, except they contain photodetectors for measuring fluorescent signals.  During the DNA amplification process the fluorescence signal increases indicating an increase in DNA concentration.  Using special software the qPCR machine can accurately calculate the starting concentration of the target gene.  Check out this [video](https://www.youtube.com/watch?v=YhXj5Yy4ksQ) to get a better understanding of qPCR.  Check [here](https://www.youtube.com/watch?v=DH7o9Df5_50) for a more detailed explanation.
-
-To actually start a qPCR experiment in order to measure RNA expression, several things need to take place:
-
-1. [RNA has to be isolated](#rna_isolation).
-2. cDNA libraries must be created from RNA samples.
-3. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
-4. The experiment has to be [designed, and the workspace has been prepared](#noteworthy_techniques).
-5. A program has to be created on the [LightCycler 96](#).
 
 ## DNA Sequencing {#dna_sequencing}
 
