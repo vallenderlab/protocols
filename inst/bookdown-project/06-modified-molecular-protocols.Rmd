@@ -1,5 +1,8 @@
 # Molecular: Protocols
 
+```{r child = 'protocols/dilutions.Rmd'}
+```
+
 ```{r child = 'protocols/leukocyte-isolation.Rmd'}
 ```
 
