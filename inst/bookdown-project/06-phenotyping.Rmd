@@ -1,4 +1,6 @@
-# Molecular: Gene Expression {#gene_expression}
+# Molecular: Phenotyping {#phenotyping}
+
+In this lab phenotyping generally refers to the various forms of gene expression analysis and microbiome analysis.  Behavioral phenotyping is generally gathered in an adjacent lab, and is analyzed alongside phenotyping/genotyping data that is associated with the same samples or specimen.
 
 ## Quantitative/Real-Time PCR
 
@@ -19,5 +21,9 @@ To actually start a qPCR experiment in order to measure RNA expression, several 
 More to come...
 
 ## Single-Cell RNA Sequencing
+
+More to come...
+
+## 16S rRNA gene Sequencing
 
 More to come...
