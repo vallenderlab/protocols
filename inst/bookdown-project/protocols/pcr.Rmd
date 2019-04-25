@@ -1,6 +1,6 @@
 ## PCR Protocol {#pcr_protocol}
 
-There are many ways to set up a PCR. Below is the protocol I have used most often here in lab, based on product usage information provided with the Promega GoTaq Colorless Master Mix kit that we purchase.  Depending on the number of samples in the PCR run, differing strategies can be taken to reduce time spent at the bench and consumables used to create the master mix.  (See the [Noteworthy Molecular Techniques section](#noteworthy_techniques))
+There are many ways to set up a PCR. Below is the protocol I have used most often here in lab, based on product usage information provided with the Promega GoTaq Colorless Master Mix kit that we purchase.  Depending on the number of samples in the PCR run, differing strategies can be taken to reduce time spent at the bench and consumables used to create the master mix.  (See the [Molecular Best Practices section](#molecular_best_practices))
 
 ### GoTaq Colorless Master Mix
 

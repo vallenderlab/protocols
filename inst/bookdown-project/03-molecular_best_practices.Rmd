@@ -1,4 +1,4 @@
-# Molecular: Noteworthy Techniques {#noteworthy_techniques} 
+# Molecular: Best Practices {#molecular_best_practices} 
 
 In a molecular genetics lab there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant, and will be unnecessary for every use case.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
 

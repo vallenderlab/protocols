@@ -8,7 +8,7 @@ Once the primers have been designed, verify them with someone else in the lab an
 
 ### Stock Solution {#stock_solution}
 
-(*Note:*  _Please read this section along with the [noteworthy techniques](#noteworthy_techniques) section and [dilution](#dilutions) section if you've never resuspended a primer before._)
+(*Note:*  _Please read this section along with the [Molecular Best Practices](#molecular_best_practices) section and [dilution](#dilutions) section if you've never resuspended a primer before._)
 
 The lyophilized (dried) primers are ususally delivered in a cardboard envelope.  IDT has this to say about lypholized/dry oligos compared to resuspended oligos:
 

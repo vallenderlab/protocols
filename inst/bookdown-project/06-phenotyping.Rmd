@@ -13,7 +13,7 @@ To actually start a qPCR experiment in order to measure RNA expression, several 
 1. [RNA has to be isolated](#rna_isolation).
 2. cDNA libraries must be created from RNA samples.
 3. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
-4. The experiment has to be [designed, and the workspace has been prepared](#noteworthy_techniques).
+4. The experiment has to be [designed, and the workspace has been prepared](#molecular_best_practices).
 5. A program has to be created on the [LightCycler 96](#).
 
 ## RNA Sequencing
@@ -24,6 +24,6 @@ More to come...
 
 More to come...
 
-## 16S rRNA gene Sequencing
+## 16S rRNA Gene (DNA) Sequencing
 
 More to come...
