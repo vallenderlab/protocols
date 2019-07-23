@@ -1,12 +1,26 @@
 ## RNA Isolation Protocol {#rna_isolation}
 
-### RNA-TODO: 
+Unlike DNA isolation, RNA isolation can be very time consuming, delicate, and fruitless work.  While RNA isolation can be a challenging technique to master, it is also a very rewarding skill to have.
 
-* RNA ICE
-* Storage/Sample Conditions
-* Add RNase Away
-* RNase free consumables (water, tips, etc.)
-* Kits
+### RNAlater
+
+Below are descriptions of serveral RNAlater brand products.  They help with tissue processing and storing pre-isolation.
+
+RNA Stabilization Solution is an aqueous tissue storage reagent that rapidly permeates most tissues to stabilize and protect RNA in fresh specimens. It eliminates the need to immediately process or freeze samples; the specimen can simply be submerged in RNAlater® Solution and stored for analysis at a later date.
+
+RNAlater®-ICE is a novel reagent for transitioning frozen tissue to a state that can be readily processed by common homogenization methodologies to extract high quality RNA. It circumvents the need to grind frozen tissue into a powder before homogenization, and even makes it possible to further dissect tissues before homogenization without RNA loss or degradation.
+
+### Sample Conditions
+
+Sample condition is very important to RNA integrity.  When collecting tissue samples for RNA isolation it's best to start the isolation procedure as soon as possible or to alternatively process the samples with RNAlater products.  While RNA degrades quickly (especially in the presence of RNase), different strands of RNA have varying degradation rates.  So as the gap of time increases in between speciment death, tissue collection, rna isolation, and rna quantification the more unpredictable and inaccurate the RNA becomes.
+
+### RNase Free
+
+RNase is an enzyme that degrades RNA strands.  These molecules can be found in the body, on your skin, on the lab bench, and in the air.  RNase is also very hard to neutralize ([RNase A variant](https://en.wikipedia.org/wiki/Ribonuclease#RNase_contamination_during_RNA_extraction)), especially when compared to DNase.  Because of this it is essential to use RNase free techniques when preforming any task in the RNA isolation procedure.  Many vendors supply DNase, RNase, Nuclease, and Protease free tips, water, tubes, etc. which are also sterile.  Other techniques that are helpful include keeping a designated area for RNA work and additional cleaning with RNase Away.  Many of these techniques can be found in [this post](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/nuclease-enzymes/general-articles/the-basics-rnase-control.html) on Thermo-Fisher's website.
+
+### Kits
+
 * Trizol
-* cDNA libraries
-* cDNA kits
+* Oligotex
+* Quantitect Reverse Transcription (cDNA)
+
