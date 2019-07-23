@@ -1,6 +1,6 @@
 --- 
-title: "Protocols for the Vallender Lab"
-author: "Rob Gilmore, Shaurita Hutchins, Lisa Ogawa, and Eric Vallender"
+title: "Vallender Lab Protocol Manual"
+author: "Rob Gilmore, Shaurita Hutchins, Lisa Ogawa, and Dr. Eric Vallender"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: book
