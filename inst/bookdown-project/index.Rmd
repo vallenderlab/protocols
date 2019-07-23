@@ -1,5 +1,5 @@
 --- 
-title: "Lab Protocols"
+title: "Protocols for the Vallender Lab"
 author: "Rob Gilmore, Shaurita Hutchins, Lisa Ogawa, and Eric Vallender"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
@@ -22,9 +22,11 @@ cover-image: images/vallender_lab_logo_1.jpg
 
 # Preface
 
-This guide was made for the purposes of showcasing the various ways the lab has 
-implemented various experimental procedures, as well as various lab management tasks and
-administrative related duties at the University of Mississippi Medical Center in Jackson, MS.
+This manual was written by Rob Gilmore and Shaurita Hutchins for the purposes of showcasing the 
+various ways the lab has implemented experimental procedures, as well as lab management tasks 
+and administrative related duties for Dr. Eric Vallender's lab located in the Division of Neurobiology 
+and Behavior Research, Department of Psychiatry and Human Behavior, University of Mississippi Medical Center,
+Jackson, Mississippi.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 # set seed for reproducible widget id
@@ -32,13 +34,31 @@ if (requireNamespace("htmltools", quietly = TRUE)) {
   htmlwidgets::setWidgetIdSeed(42)
 }
 library(leaflet)
-leaflet() %>% 
+jackson <- leaflet() %>% 
   setView(lng = -90.1730625, lat = 32.3308125, zoom = 11) %>% 
   addTiles() %>% 
   addMarkers(lng = -90.1730625, lat = 32.3308125, popup = "UMMC's Guyton Research Complex")
+jackson
 ```
+<br />
+Many of the procedures in this manual were also taken from the protocol guide written by Lisa Ogowa in Dr.
+Eric Vallener's lab while they were at the New England Primate Research Center, Harvard School of Medicine,
+Boston, MA.
 
-The chapters in this book are meant to simply be a reference point for completing tasks.  If you find
-a mistake, then please let someone know or edit it yourself on GitHub.  Feel free to add your own
-chapter or section using [bookdown](https://bookdown.org/) via RStudio.
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+# set seed for reproducible widget id
+if (requireNamespace("htmltools", quietly = TRUE)) {
+  htmlwidgets::setWidgetIdSeed(43)
+}
+library(leaflet)
+boston <- leaflet() %>% 
+  setView(lng = -71.10372, lat = 42.33628, zoom = 11) %>% 
+  addTiles() %>% 
+  addMarkers(lng = -71.10372, lat = 42.33628, popup = "New England Primate Research Center")
+boston
+```
+<br />
+The chapters in this manual are meant to simply be a reference point for completing tasks.  If you find
+a mistake, then please let someone know or edit it yourself on GitHub via pull request.  Also, feel free 
+to add your own chapter or section using [bookdown](https://bookdown.org/) via RStudio.
 
