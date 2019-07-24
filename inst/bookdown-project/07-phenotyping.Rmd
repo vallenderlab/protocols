@@ -10,11 +10,12 @@ Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has 
 
 To actually start a qPCR experiment for measuring RNA expression, several things need to take place:
 
-1. [RNA has to be isolated](#rna_isolation).
-2. cDNA libraries must be created from RNA samples.
-3. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
-4. The experiment has to be [designed, and the workspace has been prepared](#molecular_best_practices).
-5. A program has to be created on the [LightCycler 96](#).
+1. [Tissue collection](#sample_collection)
+2. [RNA has to be isolated](#rna_isolation).
+3. cDNA libraries must be created from RNA samples.
+4. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
+5. The experiment has to be [designed, and the workspace has been prepared](#molecular_best_practices).
+6. A program has to be created on the [LightCycler 96](#).
 
 ## RNA Sequencing
 
