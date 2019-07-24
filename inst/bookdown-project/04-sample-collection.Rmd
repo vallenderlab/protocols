@@ -1,8 +1,22 @@
-## Tissue Collection Protocol
+# Sample Collection {#sample_collection}
 
 
-* For DNA
-* For RNA
-  * See RNAlater in the RNA protocol
-* For Single Cell RNAseq
-* FOr cell culture (fibroblasts)
+Sample types:
+
+- [ ] Rhesus/Rat/Human Brain (fatty)
+- [ ] Rhesus Blood; Leukocytes
+- [ ] Rat Liver
+- [ ] Rhesus Feces
+- [ ] Human/Rhesus Saliva
+- [ ] Cell Culture
+- [ ] Rhesus Skin Biopsy
+
+Sample Purpose:
+
+- [ ] iPSC generation
+- [ ] scRNAseq
+- [ ] 16s rRNA (microbiome sequencing)
+- [ ] iPSC Creation
+- [ ] DNA isolation and genotyping
+- [ ] RNA isolation and phenotyping
+- [ ] Validation
