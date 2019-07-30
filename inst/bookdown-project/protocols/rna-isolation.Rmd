@@ -1,18 +1,6 @@
 ## RNA Isolation Protocol {#rna_isolation}
 
-Unlike DNA isolation, RNA isolation can be very time consuming, delicate, and fruitless work.  While RNA isolation can be a challenging technique to master, it is also a very rewarding skill to have.
-
-### RNAlater
-
-Below are descriptions of serveral RNAlater brand products.  They help with tissue processing and storing pre-isolation.
-
-RNA Stabilization Solution is an aqueous tissue storage reagent that rapidly permeates most tissues to stabilize and protect RNA in fresh specimens. It eliminates the need to immediately process or freeze samples; the specimen can simply be submerged in RNAlater® Solution and stored for analysis at a later date.
-
-RNAlater®-ICE is a novel reagent for transitioning frozen tissue to a state that can be readily processed by common homogenization methodologies to extract high quality RNA. It circumvents the need to grind frozen tissue into a powder before homogenization, and even makes it possible to further dissect tissues before homogenization without RNA loss or degradation.
-
-### Sample Conditions
-
-Sample condition is very important to RNA integrity.  When collecting tissue samples for RNA isolation it's best to start the isolation procedure as soon as possible or to alternatively process the samples with RNAlater products.  While RNA degrades quickly (especially in the presence of RNase), different strands of RNA have varying degradation rates.  So as the gap of time increases in between speciment death, tissue collection, rna isolation, and rna quantification the more unpredictable and inaccurate the RNA becomes.
+Unlike DNA isolation, RNA isolation can be very time consuming, delicate, and fruitless work at times.  While RNA isolation can be a challenging technique to master, it is also a very rewarding skill to have.  Before jumping into RNA isolation review the [Chapter 4: Sample Collection](#sample_collection).  Knowing how to handle collected tissue and downstream products is an important means to getting high quality RNA yields that accurately reflect in vivo RNA levels.
 
 ### RNase Free
 
