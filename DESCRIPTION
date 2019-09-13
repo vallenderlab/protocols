@@ -1,12 +1,11 @@
-Package: VallenderLabProtocols
-Title: What the Package Does (One Line, Title Case)
+Package: vallenderprotocols
+Title: A Lab Guide.
 Version: 0.1.0
 Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+Authors@R: c(
+    person("Robert", "Gilmore", email = "rgilmore@umc.edu", role = "aut"),
+    person("Shaurita", "Hutchins", email = "shutchins2@umc.edu", role = "aut"))
+Description: This package hosts a lab guide for the Vallender lab.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
