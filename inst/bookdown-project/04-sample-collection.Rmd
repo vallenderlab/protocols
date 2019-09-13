@@ -4,17 +4,17 @@ Sample collection is an important first step for the design of any molecular exp
 
 Another thing to consider when recieving tissue samples is the time.  How long has the tissue been exposed to the elements?  How long in between the organism's death (if dead) and tissue collection?  How long in between the tissue collection and storage?  The animals we use are usually lab animals, and so the tissue samples usually come from living animals or recently decesead animals.  So most of this is usually well controlled.  However, if the animal tissue has been collected from a deceased animal, then the time of death is still important to the sample integrity.  The moment an organism dies is the moment the degradation process begins.
 
-Sample types:
+Common sample types:
 
 - [x] Rhesus/Rat/Human Brain (fatty)
 - [x] Rhesus Blood; Leukocytes
 - [x] Rat Liver
 - [X] Rhesus Feces
 - [X] Human/Rhesus Saliva
-- [x] Cell Culture
+- [x] Cells (from cell culture)
 - [X] Rhesus Skin Biopsy
 
-Sample Purpose:
+Common downstream sample use cases:
 
 - [X] iPSC generation
 - [X] scRNAseq/FACS
@@ -24,7 +24,7 @@ Sample Purpose:
 - [ ] Validation
 
 
-## Purpose: Dna Isolation
+## DNA Isolation Samples
 
 Generally speaking, most tissue that we deal with including brain, blood, heart, liver, and even cell culture samples can be processed for DNA isolation.  While different tissues will have their own processing protocols, they all need some of the same basic storage conditions.  The two primary concerns for tissue being collected for DNA isolation is keeping them cold and keeping them dry.  For samples that are being actively used, storage at 4°C is better to prevent damage from freeze thaw cycles.  Otherwise, samples can be kept at -20°C in a normal freezer, -80°C in an ultra freezer or -180°C in liquid nitrogen.  While dehydrating the tissue samples with liquid nitrogen can be beneficial for long term sample storage, tissue is usually stored in a container with or without a solution such as Ethanol or DMSO.  Blood is a special case, because it can clot and cause issues.  Generally, blood is drawn by a special technician and immediately stored in Heparin or EDTA coated tubes to prevent clotting.
 
@@ -34,14 +34,14 @@ Generally speaking, most tissue that we deal with including brain, blood, heart,
   * Cell culture validation
   * Sanger Sequencing
 
-## Purpose: 16s rRNA Isolation
+## 16s rRNA Isolation Samples
 
 * phenotyping
 * Fecal microbiome
 * Saliva microbiome
 * GI microbiome
 
-## Purpose: RNA Isolation
+## RNA Isolation Samples
 
 The tissue used for DNA isolation can also be used for RNA isolation except for blood which contains little to no RNA.  However, the methods in which tissue is processed for RNA isolation is very important.  Since RNA is single stranded and intra/extra-cellular it is much more volatile than DNA, which is fairly stable after isolation at room temperature.
 
@@ -52,11 +52,9 @@ The tissue used for DNA isolation can also be used for RNA isolation except for 
   * qPCR
   * scRNAseq/FACS
 
-### Sample Conditions
-
 Sample condition is very important to RNA integrity.  When collecting tissue samples for RNA isolation it's best to start the isolation procedure as soon as possible or to alternatively process the samples with RNAlater products.  While RNA degrades quickly (especially in the presence of [RNase](https://en.wikipedia.org/wiki/Ribonuclease#RNase_contamination_during_RNA_extraction)), different strands of RNA have varying degradation rates.  So as the gap of time increases in between speciment death, tissue collection, rna isolation, and rna quantification the more unpredictable and inaccurate the RNA becomes.
 
-### Tissue Processing with RNAlater
+### Tissue Preservation with RNALater
 
 Below are descriptions of serveral RNAlater brand products.  They help with tissue processing and storing pre-isolation.
 
@@ -64,9 +62,8 @@ RNA Stabilization Solution is an aqueous tissue storage reagent that rapidly per
 
 RNAlater®-ICE is a novel reagent for transitioning frozen tissue to a state that can be readily processed by common homogenization methodologies to extract high quality RNA. It circumvents the need to grind frozen tissue into a powder before homogenization, and even makes it possible to further dissect tissues before homogenization without RNA loss or degradation.
 
-## Purpose: Fibroblast Isolation
+## Isolating Fibroblasts
 
-* 
 * Rhesus Skin Biopsy
   * iPSC generation from fibroblast
   

@@ -1,6 +1,6 @@
-# Molecular: Isolation
+# DNA & RNA Isolation
 
-Isolating various compounds is very important in a genetics lab.  There are many different techniques that
+Isolating various tissues is very important in a genetics lab.  There are many different techniques that
 can be used to isolate various biological material, but we will only be covering the most common
 techniques used in our lab:
 
@@ -8,21 +8,21 @@ techniques used in our lab:
 * [DNA Isolation](#dna_isolation)
 * [RNA Isolation](#rna_isolation)
 
-## Leukocytes (Buffy Coat) Isolation
+## Leukocyte (Buffy Coat) Isolation
 
 Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means that unlike red blood cells PBMCs have a nucleus.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
 
-```{r  out.width = "85%", echo=FALSE, fig.align='center'}
-knitr::include_graphics("PCR-docs/blood_seperation.png") 
+```{r  out.width = "55%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/blood_separation.png") 
 ```
 
-It its therefore advised to isolate the leukocytes before proceeding with DNA isolation for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.
+Therefore, it is advised to isolate the leukocytes before proceeding with DNA isolation for better results. Many protocols already incorporate this step, but for some circumstances, it may be useful to process the entire blood sample this way before proceeding.
 
-## Isolating DNA
+## DNA Isolation {#isolating_dna}
 
 Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  It's important to note that DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.), and are normally followed by some type of [genotyping](#molecular_genotyping) experiment.
 
-## Isolating RNA
+## RNA Isolation {#isolating_rna}
 
 Qiagen also has a methods article for [RNA](https://www.qiagen.com/us/resources/molecular-biology-methods/rna/) on their website.  RNA is most often used to determine the expression level of protein coding genes.  For studies that involve animals with varying treatment conditions (placebo vs drug1), we might want to do differential expression (DE) analysis.  DE analysis can be accomplished with the following techniques used in our lab:
 

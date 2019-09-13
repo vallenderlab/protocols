@@ -1,4 +1,4 @@
-# Molecular: Genotyping {#molecular_genotyping}
+# Genotyping {#genotyping}
 
 Genotyping is useful when we would like to compare the genetics of multiple animals.  Some of the genotyping methods that we use in our lab include:
 

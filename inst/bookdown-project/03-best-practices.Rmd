@@ -1,4 +1,4 @@
-# Molecular: Best Practices {#molecular_best_practices} 
+# Best Practices {#best_practices} 
 
 In a molecular genetics lab there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant, and will be unnecessary for every use case.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
 
@@ -57,4 +57,3 @@ It's always important to take notes during a protocol.  Some labs are very stric
 ### Post-Cleaning
 
 Tidying up or organizing your workspace before and after an experiment helps keep things in order, which in turn helps you focus on your assay vs. finding the right pipettor underneath your stack of protocols.  Clearing your workspace also gives you the opportunity to use 70% ethanol to clean the workbench and the equipment.  This step is important to remove any unwanted debris, whether it be tissue, DNA, RNA, skin cells (your own or someone else's), chemicals, and bacteria.  Cleaning in this manner also makes the lab bench a safe place for everyone's experiments, lab notebooks, and personal safety.
-

@@ -1,19 +1,24 @@
-# Quartzy Requests and Inventory {#quartzy}
+# Lab Management
+
+## Data Management
+
+
+## Quartzy for Inventory and Orders {#quartzy}
 
 Many of the items that we regularly order can be found on the Vallender Lab [Quartzy](https://www.quartzy.com/) website.  If you would like to order something and need access to Quartzy, then please ask someone in the lab for an invitation.  Quartzy uses a convenient import/export template model that allows you to bulk upload/download your entire inventory or requests using an Excel spreadsheet.  Please consult someone in the lab who knows how to use these templates before you try to use them yourself.  Quartzy also has plenty of guides you can use to understand their inventory system.
 
-## Quartzy Inventory
+### Managing Inventory
 
 Whether it be blood, DNA, RNA, cDNA, or tissue samples, equipment, primers, plasmids, chemicals, consumables, or other lab items, they can all be stored in the Quartzy Inventory for future reference or for purchasing.  Additionally, Quartzy will compile a monthly email that contains an Inventory spreadsheet to give you updated
 information about what's in the lab.  Please consult someone in the lab in order to get your samples or items imported into Quartzy.
 
-## Quartzy Requests
+### Requesting Items
 
 When you are ready to purchase an item, you can request them.  When making a request, first check the Vallender Lab Inventory and then the Quartzy Shop.  If your item cannot be found, then you will have to add an item to the inventory and then request it.  Please make sure to add as much accurate information as possible when creating new inventory items.  After making a request Dr. Vallender will receive an automated email from Quartzy so that he can approve the request.  Following approval a requisition form can be made, and emailed directly to our *Administrative Support Coordinator* who will create a UMMC Purchase Order for the items.
 
 If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.  Additionally, you can find some of the approved vendors in the [appendix](#vendors).
 
-## Freezer Boxes
+### Adding Freezer Boxes to Quartzy Inventory
 
 The majority of our Blood, DNA, Primers, etc. libraries are all in long term (-80) and short term (-20) freezer boxes.  By using Quartzy's import template to denote the box position, you can easily build on a printable inventory sheet for these libraries.  Using this functionality will help everyone locate and keep up with various inventoried items.  All of the current available boxes should be in the Lab Management folder under the Vallender Lab profile.  If a new box is added to Quartzy, then please add the printable layout here.  
 
