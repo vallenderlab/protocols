@@ -42,7 +42,7 @@ jackson
 ```
 <br />
 Many of the procedures in this manual were also taken from the protocol guide written by Lisa Ogowa in Dr.
-Eric Vallener's lab while they were at the New England Primate Research Center, Harvard School of Medicine,
+Eric Vallender's lab while they were at the New England Primate Research Center, Harvard School of Medicine,
 Boston, MA.
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
