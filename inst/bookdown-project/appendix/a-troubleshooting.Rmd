@@ -2,8 +2,17 @@
 
 More to come...
 
-## PCR
+## PCR {#troubleshooting_pcr}
 
-### Thermocycler Programs
+When running a PCR, it can sometimes be difficult to get the experiment to work correctly.  During these times it is important to remember that there are many different ways of preforming PCRs, that can help you properly validate your experiment.  Below we've listed some resources that can help you find the proper technique:
+
+1. [PCR - Variations to the System](https://www.abmgood.com/marketing/knowledge_base/polymerase_chain_variation_system.php)
+2. [PCR Methods - Top Ten Strategies](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-reagents-enzymes/pcr-methods.html)
+3. [Wikipedia - Variants of PCR](https://en.wikipedia.org/wiki/Variants_of_PCR)
+4. [PCR Cycling Parameters - Six Key Considerations for Success](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-reagents-enzymes/pcr-cycling-considerations.html)
+5. [Standard PCR Conditions](https://www.k-state.edu/hermanlab/protocols/StandardPCRConditions.html)
+
+In the past we have used nested PCR, DMSO as a primer stabalizer, multiplex PCR, and VNTR PCR methods.
+
 
 ## qPCR
