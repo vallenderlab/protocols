@@ -1,9 +1,15 @@
-## DNA Isolation Protocol {#dna_isolation}
+## DNA Isolation Protocol {#dna_isolation1}
 
 Our lab has used the following protocols for DNA isolation:
 
 * FlexiGene DNA Kit for blood/buffy coat
 * Gentra Puregene Blood Kit
+* Pharm BD Lysing Buffer
 * QIAmp DNA Micro Kit
 * QIAmp DNA Stool Mini Kit
 * [TRIzol](#trizol_protocols)
+
+### DNA Isolation from Blood
+
+There are several different kits and protocols that our lab uses to isolate DNA from blood.  The Flexigene DNA kit has been used for the longest amount of time by the lab, while the Gentra Puregene kit is a newer addition.  For these kits, freshly drawn blood will have the best results.  For blood that has been in the refrigerator for more than 2 weeks or for blood that has been in long term storage (frozen for > 3 months), another approach may need to be taken.
+
