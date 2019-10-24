@@ -36,3 +36,5 @@ The thermocycler is a machine that "thermo" "cycles".  The machine can be progra
 ```{r  out.width = "85%", echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/pcr_basic_program.png") 
 ```
+
+Check the [appendix](#troubleshooting_pcr) for more info on troubleshooting thermocycler programs and PCRs in general.
