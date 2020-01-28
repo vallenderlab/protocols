@@ -1,6 +1,6 @@
 # Molecular: Phenotyping {#phenotyping}
 
-In this lab "phenotyping"" generally refers to the various forms of gene expression analysis that we do.  What this means for molecular work is usually some form of RNA isolation and quantification.  For microbiome projects 16S rRNA genes (DNA) are used to identify and quantify various microbial communities.  Behavioral phenotyping is usually gathered in an adjacent lab, and is analyzed alongside phenotyping/genotyping data that is associated with the same samples or specimen.
+In this lab "phenotyping"" generally refers to the various forms of gene expression analysis that we do.  What this means for molecular work is usually some form of RNA isolation and quantification.  Microbiome projects, for example, utilize 16S rRNA genes (DNA) to identify and quantify various microbial communities.  Behavioral phenotyping is usually gathered in an adjacent lab, and is analyzed alongside phenotyping/genotyping data that is associated with the same samples or specimen.
 
 ## Quantitative/Real-Time PCR
 
@@ -14,12 +14,14 @@ To actually start a qPCR experiment for measuring RNA expression, several things
 2. [RNA has to be isolated](#rna_isolation).
 3. cDNA libraries must be created from RNA samples.
 4. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
-5. The experiment has to be [designed, and the workspace has been prepared](#molecular_best_practices).
+5. The experiment has to be [designed, and the workspace has to be prepared](#molecular_best_practices).
 6. A program has to be created on the [LightCycler 96](#).
 
 ## RNA Sequencing
 
-More to come...
+RNA sequencing is the process of identifying RNA expression in a given tissue of an organism.  An experiment utilizing RNA sequencing normally involves mutliple specimen and multiple tissues.  A more elaborate approach would be to also include RNA expression over time, which would of course require the specimen to be alive and would for obvious reasons be much more difficult and expensive.  Regardless, RNAseq can give valuable insights into the changes in RNA expression levels that might indicate disease or behavioral change.  To learn more see [Illumina's website](https://www.illumina.com/techniques/sequencing/rna-sequencing.html) or [RNA-Seq on Wikipedia](https://en.wikipedia.org/wiki/RNA-Seq).
+
+For our purposes, RNA sequencing is normally carried out by the Genomics Core.  So the only required molecular work is RNA isolation.
 
 ## Single-Cell RNA Sequencing
 
