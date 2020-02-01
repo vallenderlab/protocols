@@ -10,7 +10,7 @@ Watch the PCR video below to get a better understanding of the process.
 
 To actually start a PCR experiment, several things need to take place:
 
-1. [DNA has to be isolated](#dna_isolation) and verified from the target organisms.
+1. [DNA has to be isolated](#dna_isolation_protocol) and verified from the target organisms.
 2. Primers have to be designed, ordered, resuspended, and diluted to the proper concentrations.
 3. The experiment has to be [designed, and the workspace has been prepared](#molecular_best_practices).
 4. A program has to be created on the [thermocycler](#thermocycler).
