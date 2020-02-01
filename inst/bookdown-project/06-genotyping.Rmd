@@ -4,7 +4,11 @@ Genotyping is useful when we would like to compare the genetics of multiple anim
 
 ## Polymerase Chain Reaction (PCR)
 
-Watch this [cool video](https://www.youtube.com/watch?v=2KoLnIwoZKU) of PCR to get a better understanding of the process.  To actually start a PCR experiment, several things need to take place:
+Watch the PCR video below to get a better understanding of the process.
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/2KoLnIwoZKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To actually start a PCR experiment, several things need to take place:
 
 1. [DNA has to be isolated](#dna_isolation) and verified from the target organisms.
 2. Primers have to be designed, ordered, resuspended, and diluted to the proper concentrations.
@@ -41,7 +45,9 @@ While the temperatures and timing of each step may change with each PCR reaction
 
 Electrophoresis is the process of moving charged particles (in our case DNA) in a fluid or gel under the influence of an electric field.  To analyze a target gene with electrophoresis, PCR is preformed first to amplify the DNA concentration of the target gene.  The end goal of electrophoresis is to effectively estimate the number of base pairs in the DNA samples that are being tested in order to identify the alleles that are present.
 
-Generally, we use the QIAxcel for capillary electrophoresis, which is much faster than gel electrophoresis.  However, we also have the reagents and equipment to run a classic gel electrophoresis experiment using ethidium bromide.  Check out this [video](https://www.youtube.com/watch?v=sSKls2kNC4U&list=PLe4H-Q82aBZDV_E7q5-lUAPPkcfVgOquZ&index=5) to get a better understanding of how to run a manual gel.
+Generally, we use the QIAxcel for capillary electrophoresis, which is much faster than gel electrophoresis.  However, we also have the reagents and equipment to run a classic gel electrophoresis experiment using ethidium bromide.  Check out the video below to get a better understanding of how to run a manual gel.
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/sSKls2kNC4U?list=PLe4H-Q82aBZDV_E7q5-lUAPPkcfVgOquZ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Analyzing Gels
 
