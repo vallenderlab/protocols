@@ -1,4 +1,4 @@
-# Sample Collection {#sample_collection}
+# Molecular: Sample Collection {#sample_collection}
 
 Sample collection is an important first step for the design of any molecular experiment.  The samples that we collect in our lab usually come from rhesus, humans, rats, or mice.  The samples are usually tissue like brain, liver, skin, blood, or heart, but they can also be other biological material such as saliva or feces.  Different tissue types will be used for different downstream applications and require different protocols for pre and post processing of the tissue samples.
 
@@ -7,6 +7,7 @@ Another thing to consider when receiving tissue samples is the time.  How long h
 ## Sample Types
 
 Samples of various tissue types will have different properties that will require different ways of handling.
+
 1.  Blood is not only a liquid, but it also contains many dangerous pathogens.  Caution must taken when dealing with blood, including waring the appropriate Personal Protective Equipment (PPE).
 2.  Brain tissue can be very fatty so homogenization can be more difficult, which affects downstream yields and applications.
 3.  Fresh tissue can also behave very differently from older tissues.  A sample that has been collected and processed immediately will yield different results from one that has sat in the freezer for 3 years (or even just 3 months).  This issue is exacerbated if the proper techniques weren't used to store the tissue.
@@ -15,9 +16,9 @@ Samples of various tissue types will have different properties that will require
 
 Generally speaking, most tissue that we deal with including brain, blood, heart, liver, and even cell culture samples can be processed for DNA isolation.  While different tissues will have their own processing protocols, they all need some of the same basic storage conditions.  The two primary concerns for tissue being collected for DNA isolation is keeping them cold and keeping them dry.  For samples that are being actively used, storage at 4°C is better to prevent damage from-freeze thaw cycles.  Otherwise, samples can be kept at -20°C in a normal freezer, -80°C in an ultra freezer or -180°C in liquid nitrogen.  While dehydrating the tissue samples with liquid nitrogen can be beneficial for long term sample storage, tissue is usually stored in a container with or without a solution such as Ethanol or DMSO.  Blood is a special case, because it can clot, which causes downstream issues.  Generally, blood is drawn by a special technician and immediately stored in Heparin or EDTA coated tubes to prevent clotting.
 
-## 16s rRNA Isolation
+## 16S rRNA Isolation
 
-When collecting samples for 16s rRNA isolation, care similar to DNA isoation should be taken.  However, many of the samples collected for microbiome research can be unpleasant (fecal or GI microbiome), and they bring their own challenges (saliva).
+Samples collected for 16S rRNA isolation are used to study microbiota, and should be treated similarly to samples used for DNA isolation.  Additionally, many samples collected for microbiome research can be unpleasant (fecal, GI microbiome, or saliva), and they bring their own challenges.
 
 ## RNA Isolation
 
@@ -37,7 +38,6 @@ RNAlater®-ICE is a novel reagent for transitioning frozen tissue to a state tha
 
 ## Fibroblast Isolation
 
-* 
 * Rhesus Skin Biopsy
   * iPSC generation from fibroblast
   
