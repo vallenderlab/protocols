@@ -1,4 +1,4 @@
-## DNA Isolation Protocol {#dna_isolation1}
+## DNA Isolation Protocol {#dna_isolation_protocol}
 
 Our lab has used the following protocols for DNA isolation:
 
