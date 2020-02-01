@@ -9,14 +9,14 @@ techniques used in our lab.
 Leukocytes, more commonly known as white blood cells, are a type of peripheral blood mononuclear cell (PBMC), which means that unlike red blood cells PBMCs have a nucleus.  While they make up less than 1% of the blood by volume, they will yield the majority of the DNA contained in blood samples:
 
 ```{r  out.width = "85%", echo=FALSE, fig.align='center'}
-knitr::include_graphics("PCR-docs/blood_seperation.png") 
+knitr::include_graphics("images/blood_seperation.png") 
 ```
 
 It its therefore advised to isolate the leukocytes before proceeding with DNA isolation for better results.  Many protocols already incorporate this step, but for some circumstances it may be useful to process the entire blood sample this way before proceeding.
 
 ## Isolating DNA
 
-Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  It's important to note that DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.), and are normally followed by some type of [genotyping](#molecular_genotyping) experiment.  To get on overview of what kits we use, check out our DNA Isolation protocols.  This section contains info on the kits and modified protocols that we use to isolate DNA.
+Many of our DNA isolation kits come from Qiagen, which has a very comprehensive methods article on their [website](https://www.qiagen.com/us/resources/molecular-biology-methods/dna/) about DNA.  Wikipedia also has a much simpler breakdown of what the [process](https://en.wikipedia.org/wiki/DNA_extraction) looks like.  It's important to note that DNA isolation protocols differ based on the sample being used (brain, liver, blood, buffy coat, etc.), and are normally followed by some type of [genotyping](#molecular_genotyping) experiment.  To get an overview of what kits we use, check out our DNA Isolation protocols.  This section contains info on the kits and modified protocols that we use to isolate DNA.
 
 ## Isolating RNA
 
@@ -27,5 +27,5 @@ RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA i
 ## Relevant Protocols
 
 * [Leukocyte Isolation](#leukocyte_isolation)
-* [DNA Isolation](#dna_isolation)
+* [DNA Isolation](#dna_isolation_protocol)
 * [RNA Isolation](#rna_isolation)
