@@ -29,5 +29,3 @@ RNA isolation (similar to DNA isolation) also depends on the sample type.  RNA i
 * [Leukocyte Isolation](#leukocyte_isolation)
 * [DNA Isolation](#dna_isolation)
 * [RNA Isolation](#rna_isolation)
-  * [qPCR](#qpcr_protocol)
-  * RNAseq - NGS/HTS
