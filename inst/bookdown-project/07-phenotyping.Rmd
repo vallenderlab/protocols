@@ -32,3 +32,8 @@ More to come...
 The 16S gene is used to transcribe a small part of the ribosomal RNA found in all organisms.  However, it's primary function in biological research is that of a biomarker for identifying microbiota.  After amplifying this gene in a sample of feces for example, different microbes can be identified through 16S rRNA gene sequencing and categorized as an OTU group, a species, or as a gene using specialized bioinformatics software.  Dr. Dan Knights from the University of Minnesota has a comprehensive youtube playlist dedicated to [Microbiome Discovery](https://www.youtube.com/playlist?list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc) that you should watch if you would like to know more.
 
 For our purposes, 16S rRNA sequencing is normally carried out by the Genomics Core.  So the only required molecular work is DNA isolation.
+
+## Relevant Protocols
+
+* [qPCR](#qpcr_protocol)
+    * [Designing Primers](#design_primers) 
