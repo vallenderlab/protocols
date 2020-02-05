@@ -1,25 +1,131 @@
-# Lab Management
+# Managing Cell lines
 
-## Data Management
+## General Media Preparation Guidelines
+
+1. Place pen-strep in the 4ºC refrigerator so it can thaw.
+    * _Some cell lines do not need pen-strep; check the information about the cell line._
+2. Place media and FBS in water bath. The media needs to warm, and the FBS needs to thaw
+    completely.
+3. Add the FBS, pen-strep, and media to a media filtering bottle, and filter the media.
+4. Label the bottle appropriately (Name, Date, Media, Ingredients).
+5. Place the media in a 4°C refrigerator.
+
+Below are media formulations for common cell lines.
+
+### HEK-293T/293/SK-N-MC
+
+EMEM (ATCC 30-2003) – 500 mL
+10% FBS – 50 mL
+Pen-Strep – 5 mL (if necessary)
+
+### COS-7
+
+DMEM (ATCC 30 -2002) – 500 mL
+10% FBS – 50 mL
+Pen-Strep – 5 mL (if necessary)
+
+### CHO-K1
+
+F-12K Medium (ATCC 30-2004) – 500 mL
+10% FBS – 50 mL
+Pen-Strep – 5 mL (if necessary)
+
+### H9
+
+RPMI-1640 Medium (ATCC 30-2001) – 500 mL
+10% FBS – 50 mL
+
+### AtT-20
+
+F-12K Medium (ATCC 30-2004) – 500 mL
+15% Horse Serum – 75 mL
+2.5% FBS – 12.5 mL
+Pen-Strep – 5 mL (if necessary)
+
+## Culturing Adherent Cells (293, CHO-K1, COS-7, SK-N-MC)
+
+### Thawing Frozen Cells & Starting Seeding Culture
+
+_It is suggested that, prior to the addition of the vial contents, the culture vessel containing the growth
+medium be placed into the incubator for at least_ **_15 minutes_** _to allow the medium to reach its normal
+pH (7.0 to 7.6)._
+
+1. Thaw the vial by gentle agitation in a 37°C water bath. Thawing should be rapid ( **approximately**
+    **2 minutes** ).
+2. Remove the vial from the water bath as soon as the contents are thawed, and decontaminate
+    by dipping in or spraying with 70% ethanol.
+3. Transfer the vial contents to a plate and dilute with the recommended complete culture
+    medium.
+4. Incubate the plate at 37°C in a 5% CO 2 air atmosphere in an incubator.
 
 
-## Quartzy for Inventory and Orders {#quartzy}
+Medium Renewal: Every 2 to 4 days
 
-Many of the items that we regularly order can be found on the Vallender Lab [Quartzy](https://www.quartzy.com/) website.  If you would like to order something and need access to Quartzy, then please ask someone in the lab for an invitation.  Quartzy uses a convenient import/export template model that allows you to bulk upload/download your entire inventory or requests using an Excel spreadsheet.  Please consult someone in the lab who knows how to use these templates before you try to use them yourself.  Quartzy also has plenty of guides you can use to understand their inventory system.
+### Splitting Cells
 
-### Managing Inventory
+1. Aspirate media from the plate.
+2. Add **0.25% Trypsin Edta** to the plate and allow it to sit in the incubator for 2-5 minutes.
+    _For 293 cells, trypsin does not need to be added. You can skip to step 4._
+3. Take the cells out of the incubator and check for dissociation under the microscope.
+4. Add DPBS to the plate to further dissociate the cells, and disperse DPBS/Trypsin by pipetting
+    over the cell layer surface several times.
+**5.** Transfer the cells to a conical tube, and centrifuge the cells at **1000-2000 rpm** for **~5 minutes.**
+    _Note that the centrifuge speed and time vary based on the cell type._
+6. Aspirate the supernatant without disturbing the pellet.
+7. Re-suspend the cell pellet in a minimal volume (1 ml) of pre-warmed growth medium.
+    _You may want to count the cells using a hemocytometet, which is available in Dr. Garrett’s lab_
+    _(the Genomics Core)._
+8. Add the re-suspended cells to each new plate.
+9. Incubate the plates at 37°C in a 5% CO 2 air atmosphere in an incubator.
 
-Whether it be blood, DNA, RNA, cDNA, or tissue samples, equipment, primers, plasmids, chemicals, consumables, or other lab items, they can all be stored in the Quartzy Inventory for future reference or for purchasing.  Additionally, Quartzy will compile a monthly email that contains an Inventory spreadsheet to give you updated
-information about what's in the lab.  Please consult someone in the lab in order to get your samples or items imported into Quartzy.
+### Freezing Cells
 
-### Requesting Items
+_To preserve stocks of cells prior to beginning a new experiment; freeze additional vials when stocks are
+low. When labeling cryogenic vials, denote the full cell name, your name, and the date._
 
-When you are ready to purchase an item, you can request them.  When making a request, first check the Vallender Lab Inventory and then the Quartzy Shop.  If your item cannot be found, then you will have to add an item to the inventory and then request it.  Please make sure to add as much accurate information as possible when creating new inventory items.  After making a request Dr. Vallender will receive an automated email from Quartzy so that he can approve the request.  Following approval a requisition form can be made, and emailed directly to our *Administrative Support Coordinator* who will create a UMMC Purchase Order for the items.
+1. Complete the **Splitting Cells** protocol through step 6.
+2. Re-suspend the cell pellet in **Recovery Cell Culture Freezing Medium**.
+3. Add **1 mL** of cells/freezing medium to each cryogenic vial.
+4. Freeze overnight at -80° C in a cryogenic freezing container.
+5. Transfer to storage boxes in -80° C.
 
-If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.  Additionally, you can find some of the approved vendors in the [appendix](#vendors).
+## Culturing Suspension Cells (H9, AtT-20)
 
-### Adding Freezer Boxes to Quartzy Inventory
+### Thawing Frozen Cells & Starting Flask Culture
 
-The majority of our Blood, DNA, Primers, etc. libraries are all in long term (-80) and short term (-20) freezer boxes.  By using Quartzy's import template to denote the box position, you can easily build on a printable inventory sheet for these libraries.  Using this functionality will help everyone locate and keep up with various inventoried items.  All of the current available boxes should be in the Lab Management folder under the Vallender Lab profile.  If a new box is added to Quartzy, then please add the printable layout here.  
+_It is suggested that, prior to the addition of the vial contents, the culture vessel containing the growth
+medium be placed into the incubator for at least 15 minutes to allow the medium to reach its normal pH (7.0 to 7.6)._
 
-This particular functionality is useful, but takes some getting used to.  To keep an accurate inventory, please ask someone for help when updating or adding a freezer box to quartzy.
+1. Thaw the vial by gentle agitation in a 37°C water bath. Thawing should be rapid ( **approximately 2**
+    **minutes** ).
+2. Remove the vial from the water bath as soon as the contents are thawed, and
+    decontaminate by dipping in or spraying with 70% ethanol.
+_3._ Transfer the vial contents to a 75 cm2 tissue culture flask and dilute with the recommended
+    complete culture medium.
+4. Incubate the culture flask at 37°C in a 5% CO 2 air atmosphere in an incubator.
+
+_Medium Renewal: Every 2 to 4 days_
+
+### Splitting Cells
+
+1. Remove cells/media from the flask and place into one or two 50 mL conical tubes.
+**2.** Centrifuge cells at **1000 rpm** for **5 minutes.**
+3. Add **24 mL** of media to the desired number of flasks and incubate them at 37°C while the cells
+    spin.
+4. Aspirate the supernatant without disturbing the pellet.
+5. Re-suspend the pellet in media.
+6. Add **1 mL** of re-suspended cells to each new flask.
+7. Place the flasks in a 37°C incubator.
+
+### Freezing Cells
+
+_To preserve stocks of cells prior to beginning a new experiment; freeze additional vials when stocks
+are low._
+
+1. Transfer cells to a 50ml conical tube.
+2. Centrifuge at **1000 rpm** for **5 minutes**.
+3. Aspirate media and re-suspend in Recovery Cell Culture Freezing Medium.
+4. Add **1 mL** of cells/freezing medium to each cryogenic vial.
+5. Freeze overnight at -80° C in a cryogenic freezing container.
+6. Transfer to liquid nitrogen storage.
+
