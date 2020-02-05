@@ -22,3 +22,22 @@ In order to minimize negative results, existing protocols for isolating leukocyt
     
 *	Using (1X) PBS, create a solution of PBS and 2% Fetal Bovine Serum (FBS) to use as a wash buffer.  For simplicity mix 10 mL of PBS with 200 µL of FBS in a 15 mL tube.  (**Note:**  *FBS is commonly used as a cell culture reagent.  Do not obtain any FBS by yourself.  To prevent potential sources of cell culture contamination ask someone who does cell culture work to aliquot 10 mL of FBS for your personal use.  FBS is also sensitive to freeze-thaw cycles, so it’s important to create 1 mL working solutions to prevent FBS denaturation.*)
 *	Prepare aliquots of 70% ethanol and Isopropanol.
+
+### Pharm Lyse Buffer
+
+1.  Collect blood in heparinized (green cap) or EDTA (Purple cap) coated vial.
+2.	Bring (1X) PLB and blood vial (if frozen) to room temperature.  By placing the blood vial in a 15 mL tube, the PLB and the blood can be brought to temperature using a heating bath.
+3.	After the blood thaws, place it on ice (optional).
+4.	Transfer no more than 1250 µl of the blood to a 15 mL conical tube.  When removing the stopper from the vials, slowly ease the stopper past the rim to prevent spraying or aerosolization of blood caused by quick pressure release.
+5.	Add 12.5 mL of (1x) PLB buffer to the blood.
+6.	GENTLY vortex for 5 seconds. 
+7.	Place in dark cabinet for 10-15 minutes.
+8.	Centrifuge 200g -500g for 5 min.
+9.	Discard the supernatant using a Pasteur pipette and aspirator system.
+10.	Wash the leukocytes 2-3 times to remove any trace of red blood cells.
+    a.	Wash the sample and gently re-suspending the pellet with 1x PBS, 2% FBS.  
+    b.	Centrifuge at 350g for 5 min.
+    c.	Discard the supernatant using a Pasteur pipette and aspirator system.
+11.	Estimate the volume of leukocytes.  A good yield is between 50 µL and 100 µL, however, lower yields may occur.
+12.	Re-suspend the pellet (cells) in a small volume (1 ml) of 1x PBS, 2% FBS, and then proceed with further cleaning or DNA isolation.  Skip this step if isolating DNA immediately.
+
