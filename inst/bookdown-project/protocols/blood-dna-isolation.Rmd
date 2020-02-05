@@ -1,6 +1,24 @@
 ## DNA Isolation from Blood
 
-Blood draws are an easy way for our lab to get genetic information from the non-human primates that are currently under study.  Ideally, these samples would be processed for DNA isolation immediately.  However, many of the blood samples that we have in our blood library are around 10 years old, and for some samples it can be difficult to generate high yielding, clean DNA samples.  While not all of our older blood samples are compromised, there were enough failed or low yielding samples over time among multiple technicians to justify troubleshooting the DNA isolation procedure.
+Blood draws are an easy way for our lab to get genetic information from the non-human primates that are currently under study.  Ideally, these samples would be processed for DNA isolation immediately.  However, many of the blood samples that we have in our blood library are up to 10 years old, and for some samples it can be difficult to generate high yielding, clean DNA samples.  While not all of our older blood samples are compromised, there were enough failed or low yielding samples over time among multiple technicians to justify troubleshooting the DNA isolation procedure.
 
-In order to generate better results, existing protocols for isolating leukocyte (white blood cell) and for isolating DNA using buffy coat (white blood cells) have been modified.  Leukocytes are isolated with BD Pharm Lyse buffer, which are then used with the Gentra Puregene Blood Kit for DNA isolation.  While this could be done with other kits such as the Flexigene DNA Kit, the Gentra Puregene Blood Kit was chosen for its protein precipitation step.  Many kits use a protease such as Proteinase K to digest proteins, but Gentra Puregene uses a Protein Precipitation solution that seems to be more effective for our leukocyte samples and has a longer lasting shelf life.
+In order to minimize negative results, existing protocols for isolating leukocyte (white blood cell) and for isolating DNA using leucoctyes (buffy coat) have been modified.  Leukocytes are isolated with BD Pharm Lyse buffer, which are then used with the Gentra Puregene Blood Kit for DNA isolation.  While this could be done with other kits such as the Flexigene DNA Kit, the Gentra Puregene Blood Kit was chosen for its protein precipitation step.  Many kits use a protease such as Proteinase K to digest proteins, but Gentra Puregene uses a Protein Precipitation solution that seems to be more effective for our leukocyte samples and has a longer lasting shelf life.
  
+### Materials and Experiment Preparation
+
+* Human and non-human primate blood contains different pathogens, and could be dangerous to your health if handled improperly.  Before handling blood samples for the first time discuss these implications with the lab, and attend a Bloodborne Pathogens training program if necessary.  Always wear Personal Protective Equipment (PPE) and work with blood under a certified biosafety cabinet.
+*	This procedure is designed to isolate DNA following leukocyte isolation from 1250 µL of whole blood in 15 mL tubes.  With this method you can isolate 1-2 samples at a time.  
+*	Ideally, fresh blood samples (< 1 hour old) are used, but this method was generated using 10 year old cryopreserved samples, which are more likely to produce lower yields of DNA at a lower quality.
+*	Each sample will require at least 6 mL of PBS/FBS wash buffer, 12.5 mL of PLB, 3 15 mL tubes, 70% EtOH, and Isopropanol.
+*	Proper blood samples should produce around 100 µL of leukocytes.
+*	Additional equipment used in this protocol includes an aspiration bottle system, Pasteur pipettes, a serological pipettor/pipettes, and a centrifuge and shaker table that can handle 15 mL tubes.  It’s also important to use molecular grade water free of DNase, RNase, Protease, and Nuclease.
+*	Dilute solutions of Pharm Lyse Buffer (PLB) and Phosphate Buffered Saline (PBS) to a concentration of (1X).  Assuming an initial concentration of (10X) and an end volume less than 50 mL, the below values can be used for the dilution.
+
+    > C~i~ = [10X];   C~f~ = [1X];   V~f~ = 45 mL  
+    > **V~i~** = ?;   **V~H2O~** = ?  
+    > **V~i~** = ([1X]) \* (45 mL) / ([10X])  
+    > **V~i~** = 4.5 mL  
+    > **V~H2O~** = 45 mL - 4.5 mL = 40.5 mL
+    
+*	Using (1X) PBS, create a solution of PBS and 2% Fetal Bovine Serum (FBS) to use as a wash buffer.  For simplicity mix 10 mL of PBS with 200 µL of FBS in a 15 mL tube.  (**Note:**  *FBS is commonly used as a cell culture reagent.  Do not obtain any FBS by yourself.  To prevent potential sources of cell culture contamination ask someone who does cell culture work to aliquot 10 mL of FBS for your personal use.  FBS is also sensitive to freeze-thaw cycles, so it’s important to create 1 mL working solutions to prevent FBS denaturation.*)
+*	Prepare aliquots of 70% ethanol and Isopropanol.
