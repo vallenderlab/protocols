@@ -29,15 +29,25 @@ In order to minimize negative results, existing protocols for isolating leukocyt
 2.	Bring (1X) PLB and blood vial (if frozen) to room temperature.  By placing the blood vial in a 15 mL tube, the PLB and the blood can be brought to temperature using a heating bath.
 3.	After the blood thaws, place it on ice (optional).
 4.	Transfer no more than 1250 µl of the blood to a 15 mL conical tube.  When removing the stopper from the vials, slowly ease the stopper past the rim to prevent spraying or aerosolization of blood caused by quick pressure release.
-5.	Add 12.5 mL of (1x) PLB buffer to the blood.
+5.	Add 12.5 mL of (1X) PLB buffer to the blood.
 6.	GENTLY vortex for 5 seconds. 
 7.	Place in dark cabinet for 10-15 minutes.
 8.	Centrifuge 200g -500g for 5 min.
 9.	Discard the supernatant using a Pasteur pipette and aspirator system.
 10.	Wash the leukocytes 2-3 times to remove any trace of red blood cells.
-    a.	Wash the sample and gently re-suspending the pellet with 1x PBS, 2% FBS.  
+    a.	Wash the sample and gently re-suspending the pellet with 1X PBS, 2% FBS.  
     b.	Centrifuge at 350g for 5 min.
     c.	Discard the supernatant using a Pasteur pipette and aspirator system.
 11.	Estimate the volume of leukocytes.  A good yield is between 50 µL and 100 µL, however, lower yields may occur.
-12.	Re-suspend the pellet (cells) in a small volume (1 ml) of 1x PBS, 2% FBS, and then proceed with further cleaning or DNA isolation.  Skip this step if isolating DNA immediately.
+12.	Re-suspend the pellet (cells) in a small volume (1 mL) of 1X PBS, 2% FBS, and then proceed with further cleaning or DNA isolation.  Skip this step if isolating DNA immediately.
 
+### Gentra Puregene Blood Kit
+
+(**Note:**  This method uses the *DNA Purification from Buffy Coat* protocol, which can be found in the Gentra Puregene Handbook that comes with the Gentra Puregene Blood Kit.  Buffy coat refers to the layer of leukocytes and platelets that appear when processing fresh blood via centrifugation.)
+
+1.	Prepare reagents and equipment according to the protocol.
+2.	Use Table 2 in the Gentra Puregene Handbook for scaling reagent volumes.  A yield of 50 µL to 100 µL of leukocytes usually corresponds to 3.5 * 10^6^ total number of white blood cells.  If the DNA purity (A~260~/A~280~;  A~260~/A~230~) or concentration is irregular, then try adjusting the reagent volumes using the same ratios from Table 2.
+3.	Do not use the aspirator bottle system when you are washing the DNA pellet, because it is easily removed with the wash solution.
+4.	Continue with the Gentra Puregene, DNA Purification from Buffy Coat protocol.
+5.	If lysed and washed properly, the leukocytes should not contain any residual red blood cells, so the RBC Lysis steps at the beginning of the protocol can be skipped.  Additionally, the optional RNA removal step can be skipped.
+6.	Using the Nanodrop, measure the concentration and purity of your DNA.
