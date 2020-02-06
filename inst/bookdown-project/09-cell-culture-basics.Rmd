@@ -4,4 +4,52 @@
 
 ## Asceptic Technique
 
+_Aseptic technique, designed to provide a barrier between the microorganisms in the environment and
+the sterile cell culture, depends upon a set of procedures to reduce the probability of contamination
+from these sources. The elements of aseptic technique are sterile work area, good personal hygiene,
+sterile reagents and media, and sterile handling._
+
+
+1. The work surface should be uncluttered and contain only items required for a particular
+procedure.
+
+2. Wipe the work surface with 70% ethanol before and during work, especially after any spillage.
+
+3. Wash your hands before and after working with cell cultures. Wear personal protective
+equipment (gloves and/or lab coat) to reduce the probability of contamination from shed
+skin as well as dirt and dust from your clothes.
+
+4. Leave the cell culture hood running at all times, turning them off only when they will not be
+used for extended periods of time.
+
+5. Always sterilize any reagents, media, or solutions prepared in the laboratory using the
+appropriate sterilization procedure (e.g., autoclave, sterile filter).
+
+6. Always wipe your hands and your work area with 70% ethanol.
+
+7. Wipe the outside of the containers, flasks, plates, and dishes with 70% ethanol before placing
+them in the cell culture hood.
+
+8. Avoid pouring media and reagents directly from bottles or flasks.
+
+9. Use sterile glass or disposable plastic pipettes and a pipettor to work with liquids, and use
+each pipette only once to avoid cross-contamination. Do not unwrap sterile pipettes until
+they are to be used.
+
+10. Always cap the bottles and flasks after use and seal multi-well plates with tape or place them
+in resealable bags to prevent microorganisms and airborne contaminants from gaining entry.
+
+11. Never uncover a sterile flask, bottle, petri dish, etc. until the instant you are ready to use it
+and never leave it open to the environment. Return the cover as soon as you are finished.
+
+12. If you remove a cap or cover, and have to put it down on the work surface, place the cap
+with opening facing down.
+
+13. Use only sterile glassware and other equipment.
+
+14. Be careful not to talk, sing, or whistle when you are performing sterile procedures.
+
+15.  Perform your experiments as rapidly as possible to minimize contamination.
+
+
 ## Cell Lines
