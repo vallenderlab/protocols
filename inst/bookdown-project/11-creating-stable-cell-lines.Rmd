@@ -1,25 +1,49 @@
 # Stable Cell Line Generation
 
-## Data Management
+## Lentiviral Transduction to Generate a Stable Cell Line
 
+### Lentiviral Transduction using Positive Control (GFP) for determining optimal MOI for transduction efficiency
 
-## Quartzy for Inventory and Orders {#quartzy}
+Day 1: Seed the cells at 50-70% confluency in 1 well of a 24 well plate.
 
-Many of the items that we regularly order can be found on the Vallender Lab [Quartzy](https://www.quartzy.com/) website.  If you would like to order something and need access to Quartzy, then please ask someone in the lab for an invitation.  Quartzy uses a convenient import/export template model that allows you to bulk upload/download your entire inventory or requests using an Excel spreadsheet.  Please consult someone in the lab who knows how to use these templates before you try to use them yourself.  Quartzy also has plenty of guides you can use to understand their inventory system.
+Day 2: Aspirate medium from the well. Add the * predetermined amount of lentiviral particles (MOI=2) to the well. Add 1 mL of media with serum (FBS) to the well. Incubate for 18-20 hours in the incubator.
 
-### Managing Inventory
+Day 3: Remove the medium containing the lentiviral particles from the well. Add 1 mL of fresh growth medium with serum to the well.
 
-Whether it be blood, DNA, RNA, cDNA, or tissue samples, equipment, primers, plasmids, chemicals, consumables, or other lab items, they can all be stored in the Quartzy Inventory for future reference or for purchasing.  Additionally, Quartzy will compile a monthly email that contains an Inventory spreadsheet to give you updated
-information about what's in the lab.  Please consult someone in the lab in order to get your samples or items imported into Quartzy.
+Day 5: Observe cells under a fluorescent microscope to determine the transduction efficiency of the positive control.
 
-### Requesting Items
+### Lentiviral Transduction using a reporter (CRE, SRE, AP-1, NFkB) for establishing a stable cell line
 
-When you are ready to purchase an item, you can request them.  When making a request, first check the Vallender Lab Inventory and then the Quartzy Shop.  If your item cannot be found, then you will have to add an item to the inventory and then request it.  Please make sure to add as much accurate information as possible when creating new inventory items.  After making a request Dr. Vallender will receive an automated email from Quartzy so that he can approve the request.  Following approval a requisition form can be made, and emailed directly to our *Administrative Support Coordinator* who will create a UMMC Purchase Order for the items.
+Day 1: Seed the cells at 50-70% confluency in 1 well of a 24 well plate.
 
-If the item you are looking for is not on the Quartzy account, please find the item and ask for someone else to add it to the Vallender Lab inventory manually.  By doing this we can keep our inventory up to date and make future orders much easier to deal with.  Additionally, you can find some of the approved vendors in the [appendix](#vendors).
+Day 2: Aspirate medium from the well. Add the * predetermined amount of lentiviral particles (MOI=2) to the well. Add 1 mL of media with serum (FBS) to the well. Incubate for 18-20 hours in the incubator.
 
-### Adding Freezer Boxes to Quartzy Inventory
+Day 3: Aspirate the medium containing the lentiviral particles from the well. Add 1 mL of fresh growth medium with serum (FBS) and pen -strep (if necessary) to the well.
 
-The majority of our Blood, DNA, Primers, etc. libraries are all in long term (-80) and short term (-20) freezer boxes.  By using Quartzy's import template to denote the box position, you can easily build on a printable inventory sheet for these libraries.  Using this functionality will help everyone locate and keep up with various inventoried items.  All of the current available boxes should be in the Lab Management folder under the Vallender Lab profile.  If a new box is added to Quartzy, then please add the printable layout here.  
+STOP ►►► AFTER REMOVAL OF THE PARTICLES, ALLOW AT LEAST 3 DAYS FOR THE REPORTER TO BECOME INTEGRATED INTO THE HOST CELL’S GENOME!!!
 
-This particular functionality is useful, but takes some getting used to.  To keep an accurate inventory, please ask someone for help when updating or adding a freezer box to quartzy.
+Day 4: Observe cells under a light microscope to determine if the cells are confluent enough to be split. Split the cells and plate them in one well of a 6-well
+plate.
+
+Day 6: Observe cells under a light microscope to determine if the cells are confluent enough to be split (if not, push each subsequent step back a day). Split the cells and plate them in a 100 mm dish.
+
+Day 7: Add fresh growth medium ( WITHOUT PEN-STREP ) and the optimal concentration of geneticin to the cells. Never add geneticin on the same day that you plate the cells.
+
+Day 8 & Beyond: Check the cells daily ( if possible) to ensure that cell death is occurring and that viable cells are still growing. Add fresh media and geneticin to the cells every 3 days. Once the cells are confluent in a 100 mm plate, trypsinize them using 1 mL of trypsin. Then re-plate the cells in 2-100 mm plates. From there, continue to select the cells using geneticin for 2-3 weeks. Before freezing the cells, test for reporter expression. Lastly, freeze the cells using Recovery Freezing medium.
+
+### Multiplicity of Infection: Determining the amount of lentiviral particles to add
+
+The transduction efficiency of Cignal Lenti reporters varies significantly for different cell type. It is important to determine the Multiplicity of Infection (MOI), which is the number of transducing lentiviral particles per cell, required to get desired transduction efficiency for each new cell type. The MOI is typically adjusted by increasing or decreasing the amount of virus added per well to a series of wells containing the same number of cells.
+
+I recommend testing the Cignal Lenti Positive Control (CLS-PCG) at an **MOI of 2** in order to establish at least a baseline of what an optimal transduction efficiency would be. This will give an idea (based on the cell line) of what MOI to use for transducing the reporter. I usually use a **MOI of 2 (1 or 3 can be used)** for transduction of the Lenti-CRE reporter and other reporter assays.
+
+#### To calculate
+
+_Multiplicity of Infection (MOI)_ = Number of transducing units (TU) deposited in a well
+Number of target cells present in that well
+
+_Total transducing units needed per well (TU)_ = (Total number of cells per well) x (Desired
+MOI)
+
+_Total mL of lentiviral particles to add to each well_ = Total TU needed per well
+TU/mL reported on Certificate of Analysis
