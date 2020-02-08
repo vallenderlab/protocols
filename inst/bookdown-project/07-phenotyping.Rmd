@@ -6,7 +6,7 @@ In this lab "phenotyping"" generally refers to the various forms of gene express
 
 (**Note**:  _For our lab we use Roche's Universal Proble Library (preferred), and SYBR Green.  The qPCR protocol is written for the UPL system._)
 
-Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still widely used for a multitude of  experimental procedures including validation of NGS/HTS results.  qPCR machines work the same as traditional thermocyclers, except they contain photodetectors for measuring fluorescent signals.  During the DNA amplification process the fluorescence signal increases indicating an increase in DNA concentration.  Using special software the qPCR machine can accurately calculate the starting concentration of the target gene.  Check out this [video](https://www.youtube.com/watch?v=YhXj5Yy4ksQ) to get a better understanding of qPCR.  Check [here](https://www.youtube.com/watch?v=DH7o9Df5_50) for a more detailed explanation.
+Quantitative PCR (qPCR) or Real Time PCR (rtPCR) is an older technique that has been largely replaced with _Next Generation Sequencing (NGS)_ also known as _High Throughput Sequencing (HTS)_ for some applications.  Nevertheless, qPCR is still widely used for a multitude of  experimental procedures including validation of NGS/HTS results.  qPCR machines work the same as traditional thermocyclers, except they contain photodetectors for measuring fluorescent signals.  During the DNA amplification process the fluorescence signal increases indicating an increase in DNA concentration.  Using special software the qPCR machine can accurately calculate the starting concentration of the target gene.  For our purposes we normally utilize a relative quantification approach that compares a reference gene to one or more target genes.  Check out the video below to get a better understanding of qPCR.  Check [here](https://www.youtube.com/watch?v=DH7o9Df5_50) for a more detailed explanation.  There are also many great guides to qPCR online.
 
 To actually start a qPCR experiment for measuring RNA expression, several things need to take place:
 
@@ -14,8 +14,48 @@ To actually start a qPCR experiment for measuring RNA expression, several things
 2. [RNA has to be isolated](#rna_isolation).
 3. cDNA libraries must be created from RNA samples.
 4. Primers and Probes have to be designed, ordered, resuspended, and diluted to the proper concentrations. 
-5. The experiment has to be [designed, and the workspace has to be prepared](#molecular_best_practices).
-6. A program has to be created on the [LightCycler 96](#).
+5. A quality control experiment is used to test the reagents with the cDNA samples.
+6. The qPCR reaction has to be optimized using standard curves.
+7. The experiment has to be [designed, and the workspace has to be prepared](#molecular_best_practices).
+8. A program has to be created on the [LightCycler 96](#).
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/YhXj5Yy4ksQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Quality Control
+
+Picking target and reference genes is an important step.  This largely depends on the organism's genetics, the selected tissue, and the qPCR efficiency.  After designing and ordering the best primers and probes, test your reagents by running a quick qPCR experiment using positive, negative, and experimental controls.  The qualitative goal for this experiment is to quickly test for primer, probe, and cDNA functionality and compatibility before spending valuable time and resources on the optimization stage.
+
+### Optimizing qPCR Reactions
+
+Before you start a real qPCR experiment there are a few procedures that need to take place to optimize the qPCR.  Sigma Aldrich has produced a document called the “qPCR technical guide” that suggests the following for any qPCR reaction.  Complete these steps for the reference gene first, which is more likely to be used in multiple experiments.
+
+* Check primer design for primer-dimer potential
+* Optimize primer concentrations
+* Optimize probe concentration
+* Validate performance with a standard curve
+* Set the threshold value
+  
+### Standard Curves
+
+Generating a standard curve involves the same process as a normal qPCR experiment, however, the standard curve experiment requires preforming the qPCR with a serial dilution of positive control cDNA samples.  Generally speaking, 4-10 serial dilutions are used for amplification.  After the experiment, the standard curve is plotted and optimization decisions can be made.  For each optimization create a new standard curve to determine if the changes were appropriate for the qPCR reaction.  This cycle will continue until you have fully optimized the reaction conditions for the gene you are studying.  Remember to record these conditions in a lab notebook for future use.
+
+### General Notes for qPCR
+
+After optimizing the reference gene, you can begin preparing for a real experiment.  While easy to understand as a concept, qPCR can be much more difficult to implement than a standard PCR experiment.  First, you have to choose specimen and collect samples for RNA isolation.  After making cDNA libraries from the RNA, you must choose your target genes and prepare your reagents (design, order, process, test, and optimize UPL primers/probes).  Finially, you can set up a real experiment to measure your samples.
+
+During the experiment it’s wise to use different color tubes for different reagents.  Keep the colors consistent so that it sticks with you in the future.  Additionally, you should label everything.  Below is an example:
+
+* Green – Forward primers
+* Red – Reverse primers
+* Yellow – Rnase/DNase/Nuclease free water
+* Blue – Master Mix
+* Clear – cDNA
+
+UPL primers and probes are prone to degradation and to react with other reagents.  After creating the master mix it’s important to work quickly and keep everything as cool as possible.  This can be accomplished by keeping the master mix on ice and the 96 well plate on a cold block. 
+
+Another concern for qPCR experiments is the accuracy of the measurements that are being made.  For this reason it’s always important to use good molecular techniques in order to avoid introducing human error.  Some things that can be done to reduce human error include reverse pipetting reagents, gently hand mixing reagents and cDNA to mix, spinning down reagents and cDNA before pipetting, and following other molecular best practices.  Additionally, you should always include 2-3 replicate wells to demonstrate repeatability.
+
+If there are concerns with qPCR efficiency, there are many things that can be done to optimize the procedure.  See the qPCR troubleshooting section in the appendix.
 
 ## RNA Sequencing
 
