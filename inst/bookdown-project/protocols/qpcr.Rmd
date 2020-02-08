@@ -1,80 +1,48 @@
 ## qPCR Protocol {#qpcr_protocol}
 
+For our lab we use Roche’s Universal Proble Library (preferred) with the FastStart Master Mix protocol, and a SYBR Green protocol. This qPCR protocol is written for the UPL system.  We also use a LightCycler 96 thermocycler to measure the qPCR reaction.
+
 ### Materials
 
-*	Full range of pipettes and matching tips
-*	Samples and reagents (master mix, target/housekeeping primers, etc).
-*	Ice bucket/ice
-*	Cold blocks, LightCycler plates, plate film
-*	Lab notebook and/or experiment sheet
+* Full range of pipettes and matching tips
+* cDNA Samples
+* Fast Start Master Mix
+* UPL Primers and Probes
+* RNase/DNase/Nuclease free water
+* Ice bucket/ice
+* Cold blocks, LightCycler plates, plate film
+* Lab notebook and/or experiment sheets
+
 
 ### Experiment Preparation
 
-<ol style="font-weight:bold">
-  <li type="1"><span style="font-weight:normal">Remove all reagents from the fridge and allow to thaw on ice.  Place DNA/RNA free water on the table.  Optimally, reagents are meant to be thawed slowly, so hand thaw for a short time at the beginning.</span></li>
-    <ol style="font-weight:bold">
-      <li type="A"><span style="font-weight:normal">Organize the reagents in the ice bucket in a way that makes sense for you and that is ergonomic for your workflow.</span></li>
-    </ol>
-  <li><span style="font-weight:normal">Make sure you have all of your materials, that your workbench is clean, and that your workbench is organized the way you want it.</span></li>
-  <li><span style="font-weight:normal">If you haven’t done so recently, then verify that your samples and primers at the proper concentrations.</span></li>
-  <li><span style="font-weight:normal">While reagents are thawing, plan the experiment:</li>
-    <ol style="font-weight:bold">
-      <li type="A"><span style="font-weight:normal">Determine # of samples.</span></li>
-      <li type="A"><span style="font-weight:normal">Determine # of genes (target and reference; 1 of each for larger experiments).</span></li>
-      <li type="A"><span style="font-weight:normal">Determine # of replicates (usually 2-3).</span></li>
-      <li type="A"><span style="font-weight:normal">Determine controls.</span></li>
-        <ol style="font-weight:bold">
-          <li type="a"><span style="font-weight:normal">Positive control?</span></li>
-          <li type="a"><span style="font-weight:normal">Negative control (Always)</span></li>
-            <ol style="font-weight:bold">
-              <li type="i"><span style="font-weight:normal">Water instead of cDNA</span></li>
-            </ol>
-          <li type="a"><span style="font-weight:normal">No Template Control (Always)</span></li>
-            <ol style="font-weight:bold">
-              <li type="i"><span style="font-weight:normal">No water or cDNA</span></li>
-            </ol>
-        </ol>
-      <li type="A"><span style="font-weight:normal">Design layout with the LightCycler software (print out the plate design for the lab notebook or for reference).</span></li>
-      <li type="A"><span style="font-weight:normal">Put aluminum plate blocks on ice.</span></li>
-    </ol>
-  <li><span style="font-weight:normal">MATH:  Using the experiment sheet determine how much of the reagents need to be used in the master mix, and to keep for your records.</span></li>
-    <ol style="font-weight:bold">
-      <li type="A"><span style="font-weight:normal">Compute 10% extra for each reagent’s volume, to account for pipetting errors.</span></li>
-    </ol>
-  <li><span style="font-weight:normal">Preheat the LightCycler lid.</li>
-</ol>
+1.  Clean and organize the workbench.
+2.  Utilize a lab notebook for planning the experiment and taking notes during the experiment.
+3.	Determine the number of cDNA samples, target genes, reference genes, and replicates (usually 2-3).
+4.	Decide what type of controls that you will use.  Always include a negative control (water instead of cDNA), and a No Template Control (no water or cDNA).
+5.	Design the plate layout with the LightCycler software (print out the plate design for the lab notebook or for reference).
+6.	Using the experiment sheet determine the volume and concentration of the reagents needed for the master mix.  Keep for your records. 
+7.	Remove all reagents from the fridge and allow to thaw on ice.  Place DNA/RNA free water on the table.  Reagents should be thawed slowly, so hand thaw for a short time at the beginning.
+8.	Organize the reagents in the ice bucket, so they are easy to keep up with during the experiment.
+9.	If you haven’t done so recently, then verify that your samples and primers are at the proper concentrations.
+10.	Preheat the LightCycler lid.
+
 
 ### Wet Chemistry
 
-<ol style="font-weight:bold">
-  <li type="1"><span style="font-weight:normal">Utilize a lab notebook for planning experiment and taking notes during the experiment.</span></li>
-  <li type="1"><span style="font-weight:normal">Mix thawed reagents by gently flicking with your fingers.  Afterwards spin down the reagents to prevent pipette contamination.  Keep reagents on ice.</span></li>
-  <li type="1"><span style="font-weight:normal">Create the master mixes.</span></li>
-    <ol style="font-weight:bold">
-      <li type="A"><span style="font-weight:normal">One for each reference gene</span></li>
-      <li type="A"><span style="font-weight:normal">One for each target gene</span></li>
-      <li type="A"><span style="font-weight:normal">Keep master mixes on ice at all times to avoid any unwanted chemical reactions.</span></li>
-      <li type="A"><span style="font-weight:normal">Make sure to eject tips after measuring each reagent.  Never use a tip with your stock solutions that have already touched another reagent.  When in doubt, eject your tip beforehand.</span></li>
-    </ol>
-  <li type="1"><span style="font-weight:normal">Plate the reaction solution.</span></li>
-    <ol style="font-weight:bold">
-      <li type="A"><span style="font-weight:normal">Option 1 (Accuracy – For Publications):</span></li>
-        <ol style="font-weight:bold">
-          <li type="a"><span style="font-weight:normal">Put the required volume of master mix into each well by reverse pipetting.  For this step you can utilize the same pipette tip.  You can also use a repeater pipette if the desired volume will work with the repeater pipette.</span></li>
-          <li type="a"><span style="font-weight:normal">Using separate tips for each well, add the cDNA in the order you’ve set up with the LightCycler software.  Pipette the liquid in each well up and down to make sure the cDNA is mixed in each well.</span></li>
-        </ol>
-      <li type="A"><span style="font-weight:normal">Option 2 (Timing – For Testing and Building qPCR skills):</span></li>
-        <ol style="font-weight:bold">
-          <li type="a"><span style="font-weight:normal">For speed you can add all of the master mix volume and all of the replicates volume into one well.</span></li>
-          <li type="a"><span style="font-weight:normal">Mix up and down with the pipette.</span></li>
-          <li type="a"><span style="font-weight:normal">Distribute the appropriate volume of reaction solution to the desired number of replicate wells.</span></li>
-        </ol>
-      <li type="A"><span style="font-weight:normal">Mark the plate and/or your lab notebook to keep up with what’s been plated.</span></li>
-      <li type="A"><span style="font-weight:normal">Switch out the aluminum plate block when it’s no longer cold.</span></li>
-      <li type="A"><span style="font-weight:normal">Don’t forget the controls.</span></li>
-    </ol>
-  <li type="1"><span style="font-weight:normal">After plating is finished put the film onto the plate.  Using a kim-wipe, rub the adhesive onto the plate so that each well is sealed properly.  This also polishes the film so that the LightCycler doesn’t pick up any weird signals.</span></li>
-  <li type="1"><span style="font-weight:normal">Select and Run the Lighcycler program.</span></li>
-</ol>
+1.	Mix thawed reagents by gently flicking with your fingers.  Afterwards spin down the reagents to prevent pipette contamination.  Keep reagents on ice.
+2.	Create the master mixes for each reference gene and each target gene.  Keep them on ice at all times to avoid any unwanted chemical reactions.
+3.  Plate the reaction solution - **Option 1 (Accuracy – For Publications)**:
+    a.	Put the required volume of master mix into each well by reverse pipetting.  For this step utilize the same pipette tip or a repeater pipettor.
+    b.	Using separate tips for each well, mix the cDNA by pipetting up and down.  Be sure to follow the plate design created with the LighCycler.
+4.  Plate the reaction solution - **Option 2 (Timing – For Testing and Building qPCR skills)**:  
+    a.	For each sample, take the total volume of master mix that will be used for all of the replicates and pipette it into one of the appropriate wells.  In the same well add the total volume of cDNA template necessary for all of the replicates.
+    b.	Mix up and down with the pipette.
+    c.	Distribute the appropriate volume of reaction solution to the desired number of replicate wells.
+5.	During step 3 or 4, mark the plate and/or your lab notebook to keep up with what’s been plated and switch out the aluminum plate block when it’s no longer cold.
+6.	Put the LightCycler film onto the plate.  Using a kim-wipe, rub the adhesive onto the plate so that each well is sealed properly.  This also polishes the film so that the LightCycler doesn’t pick up any unwanted signals.
+7.	Briefly spin down the plate in order to collect any liquid on the sides of the wells, and to remove air bubbles.  Do not spin for more than 15 or 20 seconds.
+8.	Select and Run the LighCycler program.
+
 
 ### LightCycler 96 Setup
