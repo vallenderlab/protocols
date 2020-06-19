@@ -9,9 +9,9 @@
 
 ## Keeping a Lab Notebook
 
-## Best Practices {#best_practices} 
+## Best Practices {#best_practices}
 
-In a molecular genetics lab, there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant, and will be unnecessary for every use case.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
+In a molecular genetics lab, there are many techniques that you can use in order to efficiently preform experiments in a scientifically repeatable way.  Many of these techniques are simple tips and tricks of the trade.  Some of them are skills that take time to build.  And others require additional reagents, consumables, or equipment.  Some are redundant and will be unnecessary for every use case.  However, I would suggest carefully reading this section, and using some common sense to determine which practices are right for your situation.
 
 ### Preventing Contamination {#contamination}
 
@@ -25,11 +25,11 @@ When working through a protocol, gentle centrifugation of various tubes or plate
 
 ### Pipetting
 
-Pipetting is one of the very basic techniques that you will need to know for most labs.  This lab in particular relies heavily on pipetting for molecular and cell culture experiments.  So developing good pipetting skills is vital for success and efficiency.
+Pipetting is one of the very basic techniques that you will need to know for most labs.  This lab in particular relies heavily on pipetting for molecular and cell culture experiments.  Developing good pipetting skills is vital for success and efficiency.
 
 There are many special techniques that you can use in order to pipette like a seasoned professional.  Gilson has a very comprehensive manual that I would suggest going over.  It's mentioned in [this](https://bitesizebio.com/344/17-ways-to-stop-pipetting-errors-ruining-your-experiments/) Bitesize Bio blog post on pipetting techniques.
 
-While preference often plays a huge role in what pipette tips are purchased, some specialized tips have use-cases that go beyond user preference.  For instance, some pipettors can only be used with certain tips, and some tips can only be used with certain pipettors.  Other special properties, such as being sterile (rnase, dnase, and protease free), or having filtered tips, also makes a difference when selecting pipette tips.  Filtered tips are useful for preventing pipettor contamination.  They are vital in certain situations such as DNA or RNA isolation and cell culture.  In these situations it's usually important to utilize filter tips that are also dnase/rnase/protease free.
+While preference often plays a role in which pipette tips are purchased, some specialized tips have use cases that go beyond user preference.  For instance, some pipettors can only be used with certain tips (*Rainin pipettors are best with Rainin tips*), and some tips can only be used with certain pipettors.  Other special properties, such as being sterile (RNAse, DNAse, and protease free), or having filtered tips, also makes a difference when selecting pipette tips.  Filtered tips are useful for preventing pipettor contamination.  They are vital in certain situations such as DNA or RNA isolation and cell culture.  In these situations, it's usually important to utilize filter tips that are also dnase/rnase/protease free.
 
 ## Preparing for an Experiment
 
