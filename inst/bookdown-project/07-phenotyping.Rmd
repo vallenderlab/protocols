@@ -1,4 +1,4 @@
-# Molecular: Phenotyping {#phenotyping}
+# Phenotyping {#phenotyping}
 
 In this lab "phenotyping" generally refers to the various forms of gene expression analysis that we do.  What this means for molecular work is usually some form of RNA isolation and quantification.  For microbiome projects 16S rRNA genes (DNA) are used to identify and quantify various microbial communities.  Behavioral phenotyping is usually gathered in an adjacent lab, and is analyzed alongside phenotyping/genotyping data that is associated with the same samples or specimen.
 

@@ -1,4 +1,4 @@
-# Molecular: Protocols
+# Molecular Protocols
 
 ```{r child = 'protocols/dilutions.Rmd'}
 ```
