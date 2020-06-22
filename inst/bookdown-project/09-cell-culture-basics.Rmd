@@ -53,3 +53,12 @@ with opening facing down.
 
 
 ## Cell Lines
+
+
+### CHO-K1
+
+### COS-7
+
+### HEK-293/293T
+
+### SK-N-MC

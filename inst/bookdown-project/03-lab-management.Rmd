@@ -3,7 +3,7 @@
 ## Data Management
 
 
-## Quartzy for Inventory and Orders {#quartzy}
+## Using Quartzy for Inventory and Orders {#quartzy}
 
 Many of the items that we regularly order can be found on the Vallender Lab [Quartzy](https://www.quartzy.com/) website.  If you would like to order something and need access to Quartzy, then please ask someone in the lab for an invitation.  Quartzy uses a convenient import/export template model that allows you to bulk upload/download your entire inventory or requests using an Excel spreadsheet.  Please consult someone in the lab who knows how to use these templates before you try to use them yourself.  Quartzy also has plenty of guides you can use to understand their inventory system.
 
